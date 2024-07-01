@@ -6177,7 +6177,6 @@
 {"ident": "LOT321", "dest": "LIMC", "pitr": "2018-05-28 22:16:17", "id": "LOT321-1527312385-airline-0298", "reg": "SPLDI", "orig": "EPWA"}
 {"ident": "WZZ1593", "dest": "LPPT", "pitr": "2018-05-28 22:17:32", "id": "WZZ1593-1527312390-airline-0288", "reg": "HALYH", "orig": "EPWA"}
 {"ident": "IBK5641", "dest": "LEBL", "pitr": "2018-05-28 22:28:24", "id": "IBK5641-1527312382-airline-0218", "reg": "EIFHS", "orig": "EPWA"}
-{"ident": "FGVYC", "dest": "LFAV", "pitr": "2018-05-28 22:30:56", "id": "FGVYC-1527529441-adhoc-0", "reg": "FGVYC", "orig": "EPWA"}
 {"ident": "ELY562", "dest": "LLBG", "pitr": "2018-05-28 22:31:54", "id": "ELY562-1527312385-airline-0014", "reg": "4XEHI", "orig": "EPWA"}
 {"ident": "WZZ1539", "dest": "EPGD", "pitr": "2018-05-28 22:47:05", "id": "WZZ1539-1527529518-ed-0010", "reg": "HALYD", "orig": "EPWA"}
 {"ident": "UPS273", "dest": "EDDK", "pitr": "2018-05-28 22:55:54", "id": "UPS273-1527519072-ed-0005", "reg": "N431UP", "orig": "EPWA"}
