@@ -134,7 +134,6 @@
 {"ident": "LOT354", "dest": "EPWA", "pitr": "2018-03-01 20:08:42", "id": "LOT354-1519712754-airline-0252", "reg": "SPLWD", "orig": "EDDM"}
 {"ident": "LOT394", "dest": "EPWA", "pitr": "2018-03-01 20:11:19", "id": "LOT394-1519712754-airline-0273", "reg": "SPLIC", "orig": "EDDH"}
 {"ident": "LOT254", "dest": "EPWA", "pitr": "2018-03-01 20:13:09", "id": "LOT254-1519712754-airline-0263", "reg": "SPLDK", "orig": "ELLX"}
-{"ident": "ENT7084", "dest": "EPWA", "pitr": "2018-03-01 20:16:50", "id": "ENT7084-1519916760-adhoc-0", "reg": "SPENQ", "orig": "L 28.89456 32.97940"}
 {"ident": "BMS268", "dest": "EPWA", "pitr": "2018-03-01 20:16:50", "id": "BMS268-1519712754-airline-0402", "reg": "YRBMK", "orig": "EHAM"}
 {"ident": "LOT416", "dest": "EPWA", "pitr": "2018-03-01 20:24:31", "id": "LOT416-1519712754-airline-0119", "reg": "SPLNB", "orig": "LSGG"}
 {"ident": "EWG1AK", "dest": "EPWA", "pitr": "2018-03-01 20:24:46", "id": "EWG1AK-1519904942-3-0-32", "reg": "DAIZT", "orig": "EDDL"}
@@ -237,7 +236,6 @@
 {"ident": "LOT2PA", "dest": "EPWA", "pitr": "2018-03-02 12:36:00", "id": "LOT2PA-1519940224-ed-0006", "reg": "SPLNB", "orig": "EBBR"}
 {"ident": "LOT3854", "dest": "EPWA", "pitr": "2018-03-02 12:40:41", "id": "LOT3854-1519811994-airline-0270", "reg": "SPLVA", "orig": "EPWR"}
 {"ident": "LOT412", "dest": "EPWA", "pitr": "2018-03-02 12:48:57", "id": "LOT412-1519809600-schedule-0000", "reg": "SPLLG", "orig": "LSZH"}
-{"ident": "TVP7615", "dest": "EPWA", "pitr": "2018-03-02 12:50:51", "id": "TVP7615-1519937320-ed-0000", "reg": "CGTSI", "orig": "L 22.72401 -79.10731"}
 {"ident": "NJE331R", "dest": "EPWA", "pitr": "2018-03-02 12:58:02", "id": "NJE331R-1519960444-ed-0003", "reg": "CSCHA", "orig": "LTFJ"}
 {"ident": "LOT252", "dest": "EPWA", "pitr": "2018-03-02 13:01:56", "id": "LOT252-1519809600-schedule-0000", "reg": "SPLDG", "orig": "ELLX"}
 {"ident": "BRU895", "dest": "EPWA", "pitr": "2018-03-02 13:10:27", "id": "BRU895-1519819200-schedule-0000", "reg": "EW336PA", "orig": "UMMS"}
@@ -349,7 +347,6 @@
 {"ident": "CSA776", "dest": "EPWA", "pitr": "2018-03-03 07:06:03", "id": "CSA776-1520057158-airline-0055", "reg": "OKKFP", "orig": "LKPR"}
 {"ident": "OAW1342", "dest": "EPWA", "pitr": "2018-03-03 07:08:37", "id": "OAW1342-1519884300-schedule-0000", "reg": "HBJVN", "orig": "LSZH"}
 {"ident": "MSC613", "dest": "EPWA", "pitr": "2018-03-03 07:12:51", "id": "MSC613-1519869600-schedule-0000", "reg": "SUBPX", "orig": "HEMA"}
-{"ident": "MSC613", "dest": "EPWA", "pitr": "2018-03-03 07:15:14", "id": "MSC613-1520042450-adhoc-0", "reg": "SUBPX", "orig": "L 27.08814 34.04890"}
 {"ident": "AEE860", "dest": "EPWA", "pitr": "2018-03-03 07:40:44", "id": "AEE860-1519885500-schedule-0000", "reg": "SXDGL", "orig": "LGAV"}
 {"ident": "LOT286", "dest": "EPWA", "pitr": "2018-03-03 07:43:44", "id": "LOT286-1519885800-schedule-0003", "reg": "SPLVA", "orig": "EGLL"}
 {"ident": "OAW1342", "dest": "EPWA", "pitr": "2018-03-03 07:44:46", "id": "SWR1342-1519978211-ed-0012", "reg": "HBJVN", "orig": "LSZH"}
@@ -393,14 +390,11 @@
 {"ident": "LOT266", "dest": "EPWA", "pitr": "2018-03-03 12:27:07", "id": "LOT266-1519885577-airline-0240", "reg": "SPLLF", "orig": "EHAM"}
 {"ident": "BAW846", "dest": "EPWA", "pitr": "2018-03-03 12:30:56", "id": "BAW846-1519979400-schedule-0001", "reg": "GEUYF", "orig": "EGLL"}
 {"ident": "LOT418", "dest": "EPWA", "pitr": "2018-03-03 12:35:45", "id": "LOT418-1519885577-airline-0200", "reg": "SPLIK", "orig": "LSGG"}
-{"ident": "LOT2PA", "dest": "EPWA", "pitr": "2018-03-03 12:47:35", "id": "LOT2PA-1520024624-ed-0002", "reg": "SPLWC", "orig": "L 50.88748 4.41680"}
 {"ident": "BMS332", "dest": "EPWA", "pitr": "2018-03-03 12:53:10", "id": "BMS332-1519885577-airline-0005", "reg": "YRBMK", "orig": "LFPG"}
 {"ident": "BAW850", "dest": "EPWA", "pitr": "2018-03-03 13:00:16", "id": "BAW850-1519984614-airline-0065", "reg": "GEUYF", "orig": "EGLL"}
 {"ident": "WZZ1481", "dest": "EPWA", "pitr": "2018-03-03 13:18:53", "id": "WZZ1481-1520015339-ed-0004", "reg": "HALXF", "orig": "EGGW"}
 {"ident": "BRU895", "dest": "EPWA", "pitr": "2018-03-03 13:21:06", "id": "BRU895-1519885572-airline-0146", "reg": "EW252PA", "orig": "UMMS"}
-{"ident": "PIA785", "dest": "EPWA", "pitr": "2018-03-03 13:28:51", "id": "PIA785-1519881470-airline-0388", "reg": "APBGK", "orig": "OPRN"}
 {"ident": "LOT438", "dest": "EPWA", "pitr": "2018-03-03 13:29:21", "id": "LOT438-1519885577-airline-0263", "reg": "SPLWD", "orig": "LEBL"}
-{"ident": "ENT7054", "dest": "EPWA", "pitr": "2018-03-03 13:39:18", "id": "ENT7054-1520070609-adhoc-0", "reg": "SPESB", "orig": "L 36.87161 30.78805"}
 {"ident": "LOT332", "dest": "EPWA", "pitr": "2018-03-03 13:48:41", "id": "LOT332-1520025978-ed-0004", "reg": "YRBMK", "orig": "LFPG"}
 {"ident": "QTR261", "dest": "EPWA", "pitr": "2018-03-03 13:49:46", "id": "QTR261-1519885579-airline-0035", "reg": "A7AHP", "orig": "OTHH"}
 {"ident": "LOT760", "dest": "EPWA", "pitr": "2018-03-03 14:03:45", "id": "LOT760-1519885577-airline-0082", "reg": "SPLNC", "orig": "UKHH"}
@@ -447,8 +441,6 @@
 {"ident": "LOT268", "dest": "EPWA", "pitr": "2018-03-03 20:03:35", "id": "LOT268-1519885577-airline-0198", "reg": "SPLVA", "orig": "EHAM"}
 {"ident": "LOT234", "dest": "EPWA", "pitr": "2018-03-03 20:07:31", "id": "LOT234-1519885577-airline-0215", "reg": "SPLIN", "orig": "EBBR"}
 {"ident": "LOT416", "dest": "EPWA", "pitr": "2018-03-03 20:19:02", "id": "LOT416-1519885577-airline-0299", "reg": "SPLNC", "orig": "LSGG"}
-{"ident": "ENT528", "dest": "EPWA", "pitr": "2018-03-03 20:22:41", "id": "ENT528-1520098849-adhoc-0", "reg": "SPENV", "orig": "L 44.54677 28.42217"}
-{"ident": "LLP8050", "dest": "EPWA", "pitr": "2018-03-03 20:25:41", "id": "LLP8050-1520089894-adhoc-0", "reg": "SPHAG", "orig": "L 27.13394 34.06192"}
 {"ident": "WZZ1334", "dest": "EPWA", "pitr": "2018-03-03 20:41:06", "id": "WZZ1334-1520106059-airline-0154", "reg": "HALYS", "orig": "LFLS"}
 {"ident": "DLH1352", "dest": "EPWA", "pitr": "2018-03-03 21:17:45", "id": "DLH1352-1519885577-airline-0392", "reg": "DAIUP", "orig": "EDDF"}
 {"ident": "EAY458", "dest": "EPWA", "pitr": "2018-03-03 21:17:49", "id": "EAY458-1519885577-airline-0367", "reg": "ESACK", "orig": "ESSA"}
@@ -485,7 +477,6 @@
 {"ident": "LOT384", "dest": "EPWA", "pitr": "2018-03-04 07:19:24", "id": "LOT384-1519970400-schedule-0000", "reg": "SPLDF", "orig": "EDDF"}
 {"ident": "AFL2006", "dest": "EPWA", "pitr": "2018-03-04 07:24:16", "id": "AFL2006-1519970100-schedule-0000", "reg": "RA89014", "orig": "UUEE"}
 {"ident": "WZZ1510", "dest": "EPWA", "pitr": "2018-03-04 07:52:57", "id": "WZZ1510-1519973100-schedule-0000", "reg": "HALWK", "orig": "ESMS"}
-{"ident": "ENT1914", "dest": "EPWA", "pitr": "2018-03-04 08:13:37", "id": "SPENQ-1520133197-adhoc-0", "reg": "SPENQ", "orig": "L 29.16609 32.68088"}
 {"ident": "EAY460", "dest": "EPWA", "pitr": "2018-03-04 08:28:27", "id": "EAY460-1519970400-schedule-0002", "reg": "ESACE", "orig": "EKCH"}
 {"ident": "LOT270", "dest": "EPWA", "pitr": "2018-03-04 08:48:09", "id": "LOT270-1519970700-schedule-0000", "reg": "SPLID", "orig": "EHAM"}
 {"ident": "WZZ1574", "dest": "EPWA", "pitr": "2018-03-04 08:53:14", "id": "WZZ1574-1519975800-schedule-0000", "reg": "HALPN", "orig": "EYVI"}
@@ -551,14 +542,12 @@
 {"ident": "DLH1350", "dest": "EPWA", "pitr": "2018-03-04 16:20:46", "id": "DLH1350-1519984619-airline-0295", "reg": "DAILF", "orig": "EDDF"}
 {"ident": "BCY2751", "dest": "EPWA", "pitr": "2018-03-04 16:28:17", "id": "BCY2751-1519984619-airline-0283", "reg": "EIFPG", "orig": "EKCH"}
 {"ident": "AFL2002", "dest": "EPWA", "pitr": "2018-03-04 16:51:29", "id": "AFL2002-1519984622-airline-0179", "reg": "VPBTI", "orig": "UUEE"}
-{"ident": "OEGES", "dest": "EPWA", "pitr": "2018-03-04 17:14:24", "id": "OEGES-1520170446-adhoc-0", "reg": "OEGES", "orig": "L 67.56546 24.55045"}
 {"ident": "VLG8844", "dest": "EPWA", "pitr": "2018-03-04 17:22:11", "id": "VLG8844-1519984623-airline-0179", "reg": "ECKDX", "orig": "LEBL"}
 {"ident": "WZZ1476", "dest": "EPWA", "pitr": "2018-03-04 17:25:23", "id": "WZZ1476-1519984623-airline-0308", "reg": "HALWK", "orig": "LEBL"}
 {"ident": "ELY561", "dest": "EPWA", "pitr": "2018-03-04 17:29:37", "id": "ELY561-1519984619-airline-0039", "reg": "4XEKJ", "orig": "LLBG"}
 {"ident": "BTI467", "dest": "EPWA", "pitr": "2018-03-04 17:32:49", "id": "BTI467-1519984614-airline-0098", "reg": "YLBBU", "orig": "EVRA"}
 {"ident": "CSA778", "dest": "EPWA", "pitr": "2018-03-04 17:37:00", "id": "CSA778-1520144803-airline-0054", "reg": "OKKFN", "orig": "LKPR"}
 {"ident": "OAW1352", "dest": "EPWA", "pitr": "2018-03-04 17:40:35", "id": "SWR1352-1520101181-ed-0001", "reg": "HBJVH", "orig": "LSZH"}
-{"ident": "DFC217F", "dest": "EPWA", "pitr": "2018-03-04 17:40:51", "id": "DFC217F-1520154299-dlad-5562171", "reg": "PRRMT", "orig": "L 50.06954 19.68780"}
 {"ident": "LOT3924", "dest": "EPWA", "pitr": "2018-03-04 18:24:00", "id": "LOT3924-1519984619-airline-0142", "reg": "SPLNE", "orig": "EPKK"}
 {"ident": "WZZ1442", "dest": "EPWA", "pitr": "2018-03-04 18:28:10", "id": "WZZ1442-1519984623-airline-0002", "reg": "HALXS", "orig": "LIRF"}
 {"ident": "EAY788", "dest": "EPWA", "pitr": "2018-03-04 18:28:55", "id": "EAY788-1519984619-airline-0245", "reg": "ESACJ", "orig": "EETN"}
@@ -608,7 +597,6 @@
 {"ident": "WZZ1464", "dest": "EPWA", "pitr": "2018-03-05 00:05:00", "id": "WZZ1464-1519984623-airline-0352", "reg": "HALYS", "orig": "LICA"}
 {"ident": "SAS2761", "dest": "EPWA", "pitr": "2018-03-05 00:36:24", "id": "SAS2761-1520121498-ed-0003", "reg": "EIFPB", "orig": "EKCH"}
 {"ident": "WZZ1310", "dest": "EPWA", "pitr": "2018-03-05 00:46:36", "id": "WZZ1310-1519984623-airline-0150", "reg": "HALXS", "orig": "EGGW"}
-{"ident": "WZZ665", "dest": "EPWA", "pitr": "2018-03-05 01:00:10", "id": "WZZ665-1520152022-ed-0004", "reg": "HALYS", "orig": "L 38.89528 16.32336"}
 {"ident": "LOT92", "dest": "EPWA", "pitr": "2018-03-05 02:01:59", "id": "LOT92-1520037900-schedule-0002", "reg": "SPLRB", "orig": "ZBAA"}
 {"ident": "LOT172", "dest": "EPWA", "pitr": "2018-03-05 02:44:12", "id": "LOT172-1520041200-schedule-0000", "reg": "SPLNF", "orig": "LCLK"}
 {"ident": "LOT80", "dest": "EPWA", "pitr": "2018-03-05 02:51:44", "id": "LOT80-1520042100-schedule-0001", "reg": "SPLRF", "orig": "RJAA"}
@@ -709,7 +697,6 @@
 {"ident": "BEL2555", "dest": "EPWA", "pitr": "2018-03-05 14:58:40", "id": "BEL2555-1520058373-airline-0334", "reg": "OOSSV", "orig": "EBBR"}
 {"ident": "LOT510", "dest": "EPWA", "pitr": "2018-03-05 15:08:24", "id": "LOT510-1520058371-airline-0054", "reg": "SPLNF", "orig": "LZKZ"}
 {"ident": "BCY2751", "dest": "EPWA", "pitr": "2018-03-05 15:09:28", "id": "BCY2751-1520058373-airline-0047", "reg": "EIFPJ", "orig": "EKCH"}
-{"ident": "TVP7617", "dest": "EPWA", "pitr": "2018-03-05 15:11:05", "id": "TVP7617-1520195773-ed-0006", "reg": "CGTSI", "orig": "L 18.23493 87.88668"}
 {"ident": "LOT752", "dest": "EPWA", "pitr": "2018-03-05 15:19:23", "id": "LOT752-1520058371-airline-0228", "reg": "SPLLE", "orig": "UKBB"}
 {"ident": "LOT3906", "dest": "EPWA", "pitr": "2018-03-05 15:27:17", "id": "LOT3906-1520058371-airline-0264", "reg": "YRBMN", "orig": "EPKK"}
 {"ident": "LOT514", "dest": "EPWA", "pitr": "2018-03-05 15:29:34", "id": "LOT514-1520058371-airline-0134", "reg": "SPLDG", "orig": "LUKK"}
@@ -927,14 +914,12 @@
 {"ident": "EWG9722", "dest": "EPWA", "pitr": "2018-03-06 19:58:53", "id": "EWG9722-1520144800-airline-0325", "reg": "DAIZU", "orig": "EDDL"}
 {"ident": "LOT394", "dest": "EPWA", "pitr": "2018-03-06 19:59:14", "id": "LOT394-1520144802-airline-0005", "reg": "SPLDE", "orig": "EDDH"}
 {"ident": "EWG1AK", "dest": "EPWA", "pitr": "2018-03-06 20:17:47", "id": "EWG1AK-1520336961-0-0-33", "reg": "DAIZU", "orig": "EDDL"}
-{"ident": "LLP8050", "dest": "EPWA", "pitr": "2018-03-06 20:23:07", "id": "LLP8050-1520348234-adhoc-0", "reg": "SPHAW", "orig": "L 27.02832 34.05318"}
 {"ident": "LOT336", "dest": "EPWA", "pitr": "2018-03-06 20:30:51", "id": "LOT336-1520144802-airline-0021", "reg": "SPLLG", "orig": "LFPG"}
 {"ident": "LOT226", "dest": "EPWA", "pitr": "2018-03-06 20:49:29", "id": "LOT226-1520144802-airline-0049", "reg": "SPLIO", "orig": "LOWW"}
 {"ident": "LLP332S", "dest": "EPWA", "pitr": "2018-03-06 20:52:53", "id": "SPHAI-1520347436-adhoc-0", "reg": "SPHAI", "orig": "GCRR"}
 {"ident": "CCA737", "dest": "EPWA", "pitr": "2018-03-06 21:05:19", "id": "CCA737-1520193000-schedule-0000", "reg": "B6092", "orig": "ZBAA"}
 {"ident": "BEL2559", "dest": "EPWA", "pitr": "2018-03-06 21:05:29", "id": "BEL2559-1520144805-airline-0174", "reg": "OOSSU", "orig": "EBBR"}
 {"ident": "LOT390", "dest": "EPWA", "pitr": "2018-03-06 21:15:44", "id": "LOT390-1520144802-airline-0051", "reg": "SPLNC", "orig": "EDDT"}
-{"ident": "ENT1108", "dest": "EPWA", "pitr": "2018-03-06 21:17:05", "id": "ENT1108-1520344664-adhoc-0", "reg": "SPENU", "orig": "L 25.12335 56.44491"}
 {"ident": "DLH1352", "dest": "EPWA", "pitr": "2018-03-06 21:18:25", "id": "DLH1352-1520144802-airline-0238", "reg": "DAILK", "orig": "EDDF"}
 {"ident": "LOT39B", "dest": "EPWA", "pitr": "2018-03-06 21:21:03", "id": "LOT39B-1520343029-ed-0004", "reg": "SPLNC", "orig": "EDDT"}
 {"ident": "EAY458", "dest": "EPWA", "pitr": "2018-03-06 21:27:49", "id": "EAY458-1520144802-airline-0004", "reg": "ESACI", "orig": "ESSA"}
@@ -950,7 +935,6 @@
 {"ident": "WZZ1540", "dest": "EPWA", "pitr": "2018-03-06 22:58:50", "id": "WZZ1540-1520144806-airline-0363", "reg": "HALYS", "orig": "BIKF"}
 {"ident": "WZZ1312", "dest": "EPWA", "pitr": "2018-03-06 22:59:35", "id": "WZZ1312-1520144806-airline-0395", "reg": "HALPN", "orig": "EGGP"}
 {"ident": "BCY2761", "dest": "EPWA", "pitr": "2018-03-06 23:07:19", "id": "BCY2761-1520144805-airline-0394", "reg": "EIFPC", "orig": "EKCH"}
-{"ident": "KLM1369", "dest": "EPWA", "pitr": "2018-03-06 23:21:45", "id": "KLM85R-1520347487-ed-0005", "reg": "PHEZK", "orig": "L 52.19111 5.05435"}
 {"ident": "WZZ1590", "dest": "EPWA", "pitr": "2018-03-07 00:04:43", "id": "WZZ1590-1520144806-airline-0150", "reg": "HALWF", "orig": "LMML"}
 {"ident": "WZZ367", "dest": "EPWA", "pitr": "2018-03-07 00:18:47", "id": "WZZ367-1520318915-ed-0001", "reg": "HALWF", "orig": "LMML"}
 {"ident": "WZZ352", "dest": "EPWA", "pitr": "2018-03-07 00:24:08", "id": "WZZ352-1520318369-ed-0000", "reg": "HALYD", "orig": "LEBL"}
@@ -1048,7 +1032,6 @@
 {"ident": "QTR261", "dest": "EPWA", "pitr": "2018-03-07 13:41:38", "id": "QTR261-1520231156-airline-0011", "reg": "A7AHP", "orig": "OTHH"}
 {"ident": "BAW846", "dest": "EPWA", "pitr": "2018-03-07 13:45:30", "id": "BAW846-1520317569-airline-0168", "reg": "GEUUR", "orig": "EGLL"}
 {"ident": "WZZ1516", "dest": "EPWA", "pitr": "2018-03-07 14:08:44", "id": "WZZ1516-1520231157-airline-0225", "reg": "HALXK", "orig": "ENTO"}
-{"ident": "SWR1348", "dest": "EPWA", "pitr": "2018-03-07 14:19:47", "id": "SWR1348-1520379350-ed-0002", "reg": "HBJCG", "orig": "L 47.46182 8.47391"}
 {"ident": "AFR1046", "dest": "EPWA", "pitr": "2018-03-07 14:23:33", "id": "AFR1046-1520231141-airline-0001", "reg": "FGKXL", "orig": "LFPG"}
 {"ident": "AUA623U", "dest": "EPWA", "pitr": "2018-03-07 14:25:43", "id": "OELWC-1520424790-adhoc-0", "reg": "OELWC", "orig": "LOWW"}
 {"ident": "KLM1365", "dest": "EPWA", "pitr": "2018-03-07 14:32:14", "id": "KLM1365-1520231141-airline-0021", "reg": "PHEZT", "orig": "EHAM"}
@@ -1074,7 +1057,6 @@
 {"ident": "WZZ1442", "dest": "EPWA", "pitr": "2018-03-07 16:46:28", "id": "WZZ1442-1520231157-airline-0163", "reg": "HALXF", "orig": "LIRF"}
 {"ident": "AFL2002", "dest": "EPWA", "pitr": "2018-03-07 16:51:32", "id": "AFL2002-1520231157-airline-0414", "reg": "VPBAD", "orig": "UUEE"}
 {"ident": "LOT646", "dest": "EPWA", "pitr": "2018-03-07 17:16:10", "id": "LOT646-1520231155-airline-0025", "reg": "SPLNC", "orig": "LROP"}
-{"ident": "LOT6EC", "dest": "EPWA", "pitr": "2018-03-07 17:35:35", "id": "LOT6EC-1520409998-ed-0008", "reg": "SPLNA", "orig": "L 44.56238 26.04852"}
 {"ident": "CSA778", "dest": "EPWA", "pitr": "2018-03-07 17:39:30", "id": "CSA778-1520403974-airline-0168", "reg": "OKGFS", "orig": "LKPR"}
 {"ident": "EDW1352", "dest": "EPWA", "pitr": "2018-03-07 17:41:30", "id": "SWR1352-1520402370-ed-0003", "reg": "HBIHX", "orig": "LSZH"}
 {"ident": "LOT6540", "dest": "EPWA", "pitr": "2018-03-07 17:51:37", "id": "LOT6540-1520425697-ed-0010", "reg": "SPLRF", "orig": "MPTO"}
@@ -1122,7 +1104,6 @@
 {"ident": "WZZ574", "dest": "EPWA", "pitr": "2018-03-07 22:10:43", "id": "WZZ574-1520402778-ed-0004", "reg": "HALWF", "orig": "LZIB"}
 {"ident": "QTR263", "dest": "EPWA", "pitr": "2018-03-07 23:45:53", "id": "QTR263-1520289900-schedule-0000", "reg": "A7AED", "orig": "OTHH"}
 {"ident": "BCY2761", "dest": "EPWA", "pitr": "2018-03-08 00:05:40", "id": "SAS2761-1520380938-ed-0003", "reg": "EIFPC", "orig": "EKCH"}
-{"ident": "LLP8876", "dest": "EPWA", "pitr": "2018-03-08 00:29:02", "id": "LLP8876-1520456177-adhoc-0", "reg": "SPHAI", "orig": "L 41.78804 34.86984"}
 {"ident": "WZZ133", "dest": "EPWA", "pitr": "2018-03-08 01:07:20", "id": "WZZ133-1520408511-ed-0015", "reg": "HALXE", "orig": "EGGW"}
 {"ident": "LOT4", "dest": "EPWA", "pitr": "2018-03-08 01:29:07", "id": "LOT4-1520231155-airline-0192", "reg": "SPLRB", "orig": "KORD"}
 {"ident": "WZZ1596", "dest": "EPWA", "pitr": "2018-03-08 02:39:25", "id": "WZZ1596-1520300100-schedule-0000", "reg": "HALPN", "orig": "LPPR"}
@@ -1223,7 +1204,6 @@
 {"ident": "LOT632", "dest": "EPWA", "pitr": "2018-03-08 15:25:01", "id": "LOT632-1520317572-airline-0256", "reg": "SPLDF", "orig": "LBSF"}
 {"ident": "EAY786", "dest": "EPWA", "pitr": "2018-03-08 15:25:23", "id": "EAY786-1520317572-airline-0202", "reg": "ESACK", "orig": "EETN"}
 {"ident": "LOT766", "dest": "EPWA", "pitr": "2018-03-08 15:33:49", "id": "LOT766-1520317572-airline-0367", "reg": "SPLIO", "orig": "UKLL"}
-{"ident": "TVP7131", "dest": "EPWA", "pitr": "2018-03-08 15:46:22", "id": "TVP7131-1520462134-ed-0008", "reg": "HALKG", "orig": "L 27.91937 33.72953"}
 {"ident": "LOT434", "dest": "EPWA", "pitr": "2018-03-08 15:46:37", "id": "LOT434-1520317572-airline-0027", "reg": "SPLVA", "orig": "LEMD"}
 {"ident": "LOT3802", "dest": "EPWA", "pitr": "2018-03-08 15:49:58", "id": "LOT3802-1520317572-airline-0398", "reg": "SPLWB", "orig": "EPRZ"}
 {"ident": "WZZ1568", "dest": "EPWA", "pitr": "2018-03-08 15:55:49", "id": "WZZ1568-1520317575-airline-0461", "reg": "HALYS", "orig": "UKKK"}
@@ -1308,7 +1288,6 @@
 {"ident": "LOT644", "dest": "EPWA", "pitr": "2018-03-09 06:31:12", "id": "LOT644-1520394000-schedule-0000", "reg": "SPLIO", "orig": "LROP"}
 {"ident": "LOT636", "dest": "EPWA", "pitr": "2018-03-09 06:40:32", "id": "LOT636-1520394300-schedule-0000", "reg": "SPLDF", "orig": "LBSF"}
 {"ident": "UPS244", "dest": "EPWA", "pitr": "2018-03-09 06:43:31", "id": "UPS244-1520555399-ed-0002", "reg": "N429UP", "orig": "EGSS"}
-{"ident": "RLX141P", "dest": "EPWA", "pitr": "2018-03-09 06:56:31", "id": "RLX141P-1520548764-8-0-1", "reg": "OMGTF", "orig": "L 48.36699 17.72785"}
 {"ident": "LOT270", "dest": "EPWA", "pitr": "2018-03-09 07:09:42", "id": "LOT270-1520402700-schedule-0000", "reg": "SPLNB", "orig": "EHAM"}
 {"ident": "DLH1346", "dest": "EPWA", "pitr": "2018-03-09 07:10:16", "id": "DLH1346-1520402400-schedule-0001", "reg": "DAIUK", "orig": "EDDF"}
 {"ident": "AFL2006", "dest": "EPWA", "pitr": "2018-03-09 07:10:45", "id": "AFL2006-1520402100-schedule-0000", "reg": "RA89046", "orig": "UUEE"}
@@ -1361,7 +1340,6 @@
 {"ident": "WZZ1302", "dest": "EPWA", "pitr": "2018-03-09 11:22:46", "id": "WZZ1481-1520585829-2-0-13", "reg": "HALXE", "orig": "EGGW"}
 {"ident": "LOT400", "dest": "EPWA", "pitr": "2018-03-09 11:23:25", "id": "LOT400-1520403973-airline-0198", "reg": "SPEQI", "orig": "EDDH"}
 {"ident": "LOT282", "dest": "EPWA", "pitr": "2018-03-09 11:36:15", "id": "LOT282-1520403973-airline-0194", "reg": "SPLVB", "orig": "EGLL"}
-{"ident": "WZZ975", "dest": "EPWA", "pitr": "2018-03-09 12:02:27", "id": "WZZ975-1520535141-ed-0001", "reg": "HALXS", "orig": "L 53.44020 -1.02534"}
 {"ident": "LOT382", "dest": "EPWA", "pitr": "2018-03-09 12:04:35", "id": "LOT382-1520403973-airline-0274", "reg": "SPLDE", "orig": "EDDF"}
 {"ident": "ENT251", "dest": "EPWA", "pitr": "2018-03-09 12:05:09", "id": "ENT251-1520579776-adhoc-0", "reg": "SPENL", "orig": "LLBG"}
 {"ident": "OAW1348", "dest": "EPWA", "pitr": "2018-03-09 12:13:36", "id": "OAW1348-1520403973-airline-0198", "reg": "HBJVF", "orig": "LSZH"}
@@ -1438,7 +1416,6 @@
 {"ident": "LOT312", "dest": "EPWA", "pitr": "2018-03-09 20:09:44", "id": "LOT312-1520403973-airline-0292", "reg": "SPLDK", "orig": "LIPZ"}
 {"ident": "LOT354", "dest": "EPWA", "pitr": "2018-03-09 20:10:10", "id": "LOT354-1520403973-airline-0064", "reg": "SPLNA", "orig": "EDDM"}
 {"ident": "LOT416", "dest": "EPWA", "pitr": "2018-03-09 20:12:55", "id": "LOT416-1520403973-airline-0268", "reg": "SPLNB", "orig": "LSGG"}
-{"ident": "TVP7501", "dest": "EPWA", "pitr": "2018-03-09 20:24:23", "id": "TVP7501-1520563705-ed-0000", "reg": "OKTSH", "orig": "L 31.56372 -9.15010"}
 {"ident": "LOT254", "dest": "EPWA", "pitr": "2018-03-09 20:37:51", "id": "LOT254-1520403973-airline-0174", "reg": "SPLIL", "orig": "ELLX"}
 {"ident": "EWG1AK", "dest": "EPWA", "pitr": "2018-03-09 20:53:20", "id": "EWG1AK-1520596207-13-0-115", "reg": "DAEWN", "orig": "EDDL"}
 {"ident": "BEL2559", "dest": "EPWA", "pitr": "2018-03-09 21:15:53", "id": "BEL2559-1520403975-airline-0206", "reg": "OOSSI", "orig": "EBBR"}
@@ -1530,10 +1507,8 @@
 {"ident": "EAY464", "dest": "EPWA", "pitr": "2018-03-10 12:40:22", "id": "EAY464-1520490382-airline-0297", "reg": "ESACJ", "orig": "EKCH"}
 {"ident": "DLH1348", "dest": "EPWA", "pitr": "2018-03-10 12:42:31", "id": "DLH1348-1520490382-airline-0183", "reg": "DAIBI", "orig": "EDDF"}
 {"ident": "LOT3836", "dest": "EPWA", "pitr": "2018-03-10 13:05:44", "id": "LOT3836-1520490382-airline-0065", "reg": "SPEQE", "orig": "EPGD"}
-{"ident": "LOT332", "dest": "EPWA", "pitr": "2018-03-10 13:06:23", "id": "LOT332-1520637010-ed-0004", "reg": "YRBMN", "orig": "L 49.02036 2.49023"}
 {"ident": "BRU895", "dest": "EPWA", "pitr": "2018-03-10 13:15:43", "id": "BRU895-1520490377-airline-0014", "reg": "EW294PA", "orig": "UMMS"}
 {"ident": "QTR261", "dest": "EPWA", "pitr": "2018-03-10 13:35:59", "id": "QTR261-1520490384-airline-0045", "reg": "A7AHP", "orig": "OTHH"}
-{"ident": "ENT7054", "dest": "EPWA", "pitr": "2018-03-10 13:37:05", "id": "ENT7054-1520674260-adhoc-0", "reg": "SPENU", "orig": "L 36.87108 30.78854"}
 {"ident": "LOT438", "dest": "EPWA", "pitr": "2018-03-10 13:42:07", "id": "LOT438-1520490382-airline-0232", "reg": "SPLVA", "orig": "LEBL"}
 {"ident": "LOT752", "dest": "EPWA", "pitr": "2018-03-10 13:55:49", "id": "LOT752-1520490382-airline-0066", "reg": "SPLNF", "orig": "UKBB"}
 {"ident": "AFR1046", "dest": "EPWA", "pitr": "2018-03-10 14:16:01", "id": "AFR1046-1520490377-airline-0010", "reg": "FGUGC", "orig": "LFPG"}
@@ -1580,11 +1555,9 @@
 {"ident": "DLH1616", "dest": "EPWA", "pitr": "2018-03-10 19:47:54", "id": "DLH1616-1520490382-airline-0307", "reg": "DAIPB", "orig": "EDDM"}
 {"ident": "LOT234", "dest": "EPWA", "pitr": "2018-03-10 19:49:31", "id": "LOT234-1520490382-airline-0313", "reg": "SPLIK", "orig": "EBBR"}
 {"ident": "LOT416", "dest": "EPWA", "pitr": "2018-03-10 20:00:53", "id": "LOT416-1520490382-airline-0215", "reg": "SPLNE", "orig": "LSGG"}
-{"ident": "WZZ9LS", "dest": "EPWA", "pitr": "2018-03-10 20:02:25", "id": "WZZ9LS-1520661930-ed-0022", "reg": "HALWF", "orig": "L 45.36369 5.27756"}
 {"ident": "LOT226", "dest": "EPWA", "pitr": "2018-03-10 20:04:55", "id": "LOT226-1520490382-airline-0042", "reg": "SPLDK", "orig": "LOWW"}
 {"ident": "BMS336", "dest": "EPWA", "pitr": "2018-03-10 20:07:49", "id": "BMS336-1520490383-airline-0173", "reg": "YRBMK", "orig": "LFPG"}
 {"ident": "LOT394", "dest": "EPWA", "pitr": "2018-03-10 20:11:21", "id": "LOT394-1520490382-airline-0143", "reg": "SPLDG", "orig": "EDDH"}
-{"ident": "LLP8050", "dest": "EPWA", "pitr": "2018-03-10 20:54:12", "id": "LLP8050-1520695097-adhoc-0", "reg": "SPHAG", "orig": "L 27.16736 34.02585"}
 {"ident": "DLH1352", "dest": "EPWA", "pitr": "2018-03-10 21:22:18", "id": "DLH1352-1520490382-airline-0295", "reg": "DAIPY", "orig": "EDDF"}
 {"ident": "WZZ1560", "dest": "EPWA", "pitr": "2018-03-10 21:23:25", "id": "WZZ1560-1520490387-airline-0410", "reg": "HALXS", "orig": "LLBG"}
 {"ident": "WZZ1454", "dest": "EPWA", "pitr": "2018-03-10 21:26:42", "id": "WZZ1454-1520490387-airline-0234", "reg": "HALPN", "orig": "LICC"}
@@ -1623,7 +1596,6 @@
 {"ident": "CSA776", "dest": "EPWA", "pitr": "2018-03-11 07:08:03", "id": "CSA776-1520748479-airline-0176", "reg": "OKNFU", "orig": "LKPR"}
 {"ident": "LOT270", "dest": "EPWA", "pitr": "2018-03-11 07:25:57", "id": "LOT270-1520575500-schedule-0000", "reg": "SPLIO", "orig": "EHAM"}
 {"ident": "LOT334", "dest": "EPWA", "pitr": "2018-03-11 07:47:58", "id": "LOT334-1520577000-schedule-0000", "reg": "SPLID", "orig": "LFPG"}
-{"ident": "ENT1914", "dest": "EPWA", "pitr": "2018-03-11 07:56:05", "id": "SPENT-1520736237-adhoc-0", "reg": "SPENT", "orig": "L 28.75960 33.11248"}
 {"ident": "WZZ1510", "dest": "EPWA", "pitr": "2018-03-11 08:15:05", "id": "WZZ1510-1520577900-schedule-0000", "reg": "HALYD", "orig": "ESMS"}
 {"ident": "EAY460", "dest": "EPWA", "pitr": "2018-03-11 08:25:19", "id": "EAY460-1520575200-schedule-0001", "reg": "ESACL", "orig": "EKCH"}
 {"ident": "LOT376", "dest": "EPWA", "pitr": "2018-03-11 08:39:33", "id": "LOT376-1520575200-schedule-0000", "reg": "SPLIL", "orig": "EDDM"}
@@ -1665,7 +1637,6 @@
 {"ident": "EAY464", "dest": "EPWA", "pitr": "2018-03-11 12:42:20", "id": "EAY464-1520576741-airline-0128", "reg": "ESACL", "orig": "EKCH"}
 {"ident": "WZZ1372", "dest": "EPWA", "pitr": "2018-03-11 12:43:09", "id": "WZZ1372-1520576743-airline-0303", "reg": "HALYD", "orig": "EHEH"}
 {"ident": "LOT3908", "dest": "EPWA", "pitr": "2018-03-11 13:00:27", "id": "LOT3908-1520576738-airline-0275", "reg": "SPLIC", "orig": "EPKK"}
-{"ident": "TVP7631", "dest": "EPWA", "pitr": "2018-03-11 13:06:20", "id": "TVP7631-1520722672-ed-0002", "reg": "OKTSH", "orig": "L 25.28165 56.01451"}
 {"ident": "BRU895", "dest": "EPWA", "pitr": "2018-03-11 13:09:37", "id": "BRU895-1520576733-airline-0006", "reg": "EW294PA", "orig": "UMMS"}
 {"ident": "LOT438", "dest": "EPWA", "pitr": "2018-03-11 13:13:15", "id": "LOT438-1520576738-airline-0175", "reg": "SPLNF", "orig": "LEBL"}
 {"ident": "WZZ1502", "dest": "EPWA", "pitr": "2018-03-11 13:19:01", "id": "WZZ1502-1520576743-airline-0480", "reg": "HALWF", "orig": "ESKN"}
@@ -1766,7 +1737,6 @@
 {"ident": "WZZ1310", "dest": "EPWA", "pitr": "2018-03-12 00:05:00", "id": "WZZ133-1520805416-2-0-48", "reg": "HALXM", "orig": "EGGW"}
 {"ident": "TVS7379", "dest": "EPWA", "pitr": "2018-03-12 00:08:54", "id": "TVS7379-1520576740-airline-0304", "reg": "OKTSH", "orig": "GCTS"}
 {"ident": "TVP7605", "dest": "EPWA", "pitr": "2018-03-12 00:15:09", "id": "TVP7605-1520763262-ed-0001", "reg": "OMGTF", "orig": "GVAC"}
-{"ident": "WZZ665", "dest": "EPWA", "pitr": "2018-03-12 01:34:17", "id": "WZZ665-1520756864-ed-0003", "reg": "HALPN", "orig": "L 38.88094 16.41608"}
 {"ident": "LOT92", "dest": "EPWA", "pitr": "2018-03-12 02:00:09", "id": "LOT92-1520642700-schedule-0004", "reg": "SPLRH", "orig": "ZBAA"}
 {"ident": "WZZ1596", "dest": "EPWA", "pitr": "2018-03-12 02:37:37", "id": "WZZ1596-1520645700-schedule-0000", "reg": "HALYS", "orig": "LPPR"}
 {"ident": "LOT80", "dest": "EPWA", "pitr": "2018-03-12 02:56:18", "id": "LOT80-1520646900-schedule-0000", "reg": "SPLRE", "orig": "RJAA"}
@@ -1828,7 +1798,6 @@
 {"ident": "SVR819", "dest": "EPWA", "pitr": "2018-03-12 10:15:51", "id": "SVR819-1520663140-airline-0294", "reg": "VPBBG", "orig": "UUDD"}
 {"ident": "LOT524", "dest": "EPWA", "pitr": "2018-03-12 10:17:48", "id": "LOT524-1520663137-airline-0049", "reg": "SPLIK", "orig": "LKPR"}
 {"ident": "TAP1264", "dest": "EPWA", "pitr": "2018-03-12 10:18:25", "id": "TAP1264-1520835935-airline-0262", "reg": "CSTNQ", "orig": "LPPT"}
-{"ident": "WZZ857", "dest": "EPWA", "pitr": "2018-03-12 10:19:36", "id": "WZZ857-1520790860-ed-0009", "reg": "HALYD", "orig": "L 47.41522 19.30678"}
 {"ident": "LOT410", "dest": "EPWA", "pitr": "2018-03-12 10:24:48", "id": "LOT410-1520663137-airline-0171", "reg": "SPLNF", "orig": "EDDL"}
 {"ident": "LOT372", "dest": "EPWA", "pitr": "2018-03-12 10:27:46", "id": "LOT372-1520663137-airline-0242", "reg": "SPLND", "orig": "EDDS"}
 {"ident": "KLM1363", "dest": "EPWA", "pitr": "2018-03-12 10:28:16", "id": "KLM1363-1520663136-airline-0139", "reg": "PHBGN", "orig": "EHAM"}
@@ -1987,7 +1956,6 @@
 {"ident": "LOT270", "dest": "EPWA", "pitr": "2018-03-13 07:42:58", "id": "LOT270-1520748300-schedule-0001", "reg": "SPLID", "orig": "EHAM"}
 {"ident": "LOT406", "dest": "EPWA", "pitr": "2018-03-13 07:45:39", "id": "LOT406-1520749200-schedule-0000", "reg": "SPLIM", "orig": "EDDL"}
 {"ident": "ENT252", "dest": "EPWA", "pitr": "2018-03-13 08:07:10", "id": "ENT252-1520912013-adhoc-0", "reg": "SPENM", "orig": "LLBG"}
-{"ident": "ENT284", "dest": "EPWA", "pitr": "2018-03-13 08:11:00", "id": "ENT284-1520912603-adhoc-0", "reg": "SPENO", "orig": "L 32.00679 34.83160"}
 {"ident": "BCY751", "dest": "EPWA", "pitr": "2018-03-13 08:17:02", "id": "BCY751-1520751900-schedule-0000", "reg": "EIFPB", "orig": "EKCH"}
 {"ident": "BAW850", "dest": "EPWA", "pitr": "2018-03-13 08:34:13", "id": "BAW850-1520749530-airline-0110", "reg": "GEUYA", "orig": "EGLL"}
 {"ident": "LOT196", "dest": "EPWA", "pitr": "2018-03-13 08:49:14", "id": "LOT196-1520749534-airline-0057", "reg": "SPLWC", "orig": "UACC"}
@@ -2101,7 +2069,6 @@
 {"ident": "WZZ1590", "dest": "EPWA", "pitr": "2018-03-13 21:47:09", "id": "WZZ1590-1520749538-airline-0054", "reg": "HALWF", "orig": "LMML"}
 {"ident": "LOT420", "dest": "EPWA", "pitr": "2018-03-13 21:50:23", "id": "LOT420-1520749534-airline-0163", "reg": "SPLIC", "orig": "LSZH"}
 {"ident": "LOT532", "dest": "EPWA", "pitr": "2018-03-13 21:55:16", "id": "LOT532-1520749534-airline-0325", "reg": "SPLDI", "orig": "LHBP"}
-{"ident": "ENT1108", "dest": "EPWA", "pitr": "2018-03-13 21:58:24", "id": "SPENM-1520952167-adhoc-0", "reg": "SPENM", "orig": "L 25.23019 56.32426"}
 {"ident": "LOT268", "dest": "EPWA", "pitr": "2018-03-13 22:07:42", "id": "LOT268-1520934611-ed-0012", "reg": "YRBMN", "orig": "EHAM"}
 {"ident": "LLP332S", "dest": "EPWA", "pitr": "2018-03-13 22:09:24", "id": "LLP332S-1520956766-adhoc-0", "reg": "SPHAG", "orig": "GCRR"}
 {"ident": "WZZ1312", "dest": "EPWA", "pitr": "2018-03-13 22:28:12", "id": "WZZ1312-1520749538-airline-0287", "reg": "HALYD", "orig": "EGGP"}
@@ -2110,7 +2077,6 @@
 {"ident": "BCY2761", "dest": "EPWA", "pitr": "2018-03-13 23:13:25", "id": "BCY2761-1520749536-airline-0304", "reg": "EIFPK", "orig": "EKCH"}
 {"ident": "KLM1369", "dest": "EPWA", "pitr": "2018-03-13 23:16:02", "id": "KLM85R-1520952245-ed-0003", "reg": "PHEZO", "orig": "EHAM"}
 {"ident": "TFL322", "dest": "EPWA", "pitr": "2018-03-13 23:35:14", "id": "TFL322-1520964344-25-0-7", "reg": "PHOYI", "orig": "MKJS"}
-{"ident": "LLP8050", "dest": "EPWA", "pitr": "2018-03-13 23:48:53", "id": "DASPC-1520967038-adhoc-0", "reg": "DASPC", "orig": "L 26.97646 34.05751"}
 {"ident": "WZZ1476", "dest": "EPWA", "pitr": "2018-03-14 00:04:53", "id": "WZZ1476-1520749538-airline-0368", "reg": "HALPN", "orig": "LEBL"}
 {"ident": "WZZ367", "dest": "EPWA", "pitr": "2018-03-14 00:22:35", "id": "WZZ367-1520923730-ed-0012", "reg": "HALWF", "orig": "LMML"}
 {"ident": "WZZ352", "dest": "EPWA", "pitr": "2018-03-14 00:35:16", "id": "WZZ352-1520923709-ed-0009", "reg": "HALPN", "orig": "LEBL"}
@@ -2126,7 +2092,6 @@
 {"ident": "LOT756", "dest": "EPWA", "pitr": "2018-03-14 05:01:47", "id": "LOT756-1520827200-schedule-0000", "reg": "SPLNA", "orig": "UKKK"}
 {"ident": "UAE179", "dest": "EPWA", "pitr": "2018-03-14 05:05:15", "id": "UAE179-1520827500-schedule-0000", "reg": "A6ENZ", "orig": "OMDB"}
 {"ident": "ELY563", "dest": "EPWA", "pitr": "2018-03-14 05:10:00", "id": "ELY563-1520827800-schedule-0000", "reg": "4XEHE", "orig": "LLBG"}
-{"ident": "EYE77", "dest": "EPWA", "pitr": "2018-03-14 05:13:51", "id": "EYE77-1520937319-dlad-5581156", "reg": "APEYE", "orig": "OPRN"}
 {"ident": "QTR259", "dest": "EPWA", "pitr": "2018-03-14 05:17:04", "id": "QTR259-1520827500-schedule-0000", "reg": "A7AEM", "orig": "OTHH"}
 {"ident": "UPS4", "dest": "EPWA", "pitr": "2018-03-14 06:06:54", "id": "UPS4-1520988420-ed-0002", "reg": "N251UP", "orig": "EDDK"}
 {"ident": "LOT518", "dest": "EPWA", "pitr": "2018-03-14 06:24:26", "id": "LOT518-1520828400-schedule-0001", "reg": "SPLIO", "orig": "LZKZ"}
@@ -2198,7 +2163,6 @@
 {"ident": "WZZ1584", "dest": "EPWA", "pitr": "2018-03-14 12:35:58", "id": "WZZ1584-1520835937-airline-0292", "reg": "HALYD", "orig": "LROP"}
 {"ident": "LOT318", "dest": "EPWA", "pitr": "2018-03-14 12:36:15", "id": "LOT318-1520835932-airline-0424", "reg": "SPLII", "orig": "LIMC"}
 {"ident": "WZZ1372", "dest": "EPWA", "pitr": "2018-03-14 12:42:32", "id": "WZZ1372-1520835937-airline-0058", "reg": "HALPN", "orig": "EHEH"}
-{"ident": "LOT266", "dest": "EPWA", "pitr": "2018-03-14 12:43:41", "id": "LOT266-1520970432-ed-0006", "reg": "YRBMK", "orig": "L 52.31941 4.82033"}
 {"ident": "BAW850", "dest": "EPWA", "pitr": "2018-03-14 13:02:19", "id": "BAW850-1520835928-airline-0297", "reg": "GEUYC", "orig": "EGLL"}
 {"ident": "BRU895", "dest": "EPWA", "pitr": "2018-03-14 13:03:57", "id": "BRU895-1520835927-airline-0078", "reg": "EW253PA", "orig": "UMMS"}
 {"ident": "LOT2PA", "dest": "EPWA", "pitr": "2018-03-14 13:30:28", "id": "LOT2PA-1520969736-ed-0002", "reg": "SPLNA", "orig": "EBBR"}
@@ -2240,7 +2204,6 @@
 {"ident": "EAY788", "dest": "EPWA", "pitr": "2018-03-14 17:27:35", "id": "EAY788-1520835932-airline-0303", "reg": "ESACI", "orig": "EETN"}
 {"ident": "EDW1352", "dest": "EPWA", "pitr": "2018-03-14 17:28:51", "id": "EDW1352-1520835932-airline-0043", "reg": "HBIHX", "orig": "LSZH"}
 {"ident": "CSA778", "dest": "EPWA", "pitr": "2018-03-14 17:38:55", "id": "CSA778-1521030812-airline-0184", "reg": "OKGFS", "orig": "LKPR"}
-{"ident": "SAS2751", "dest": "EPWA", "pitr": "2018-03-14 17:41:24", "id": "SAS2751-1520961426-ed-0001", "reg": "EIFPS", "orig": "L 55.56633 12.56321"}
 {"ident": "RYR2361", "dest": "EPWA", "pitr": "2018-03-14 18:05:30", "id": "RYR2361-1520835930-airline-0009", "reg": "EIFIY", "orig": "EPSC"}
 {"ident": "LOT782", "dest": "EPWA", "pitr": "2018-03-14 18:39:23", "id": "LOT782-1520835932-airline-0236", "reg": "SPEQE", "orig": "EVRA"}
 {"ident": "LOT3848", "dest": "EPWA", "pitr": "2018-03-14 18:44:33", "id": "LOT3848-1520835932-airline-0095", "reg": "SPEQL", "orig": "EPWR"}
@@ -2276,7 +2239,6 @@
 {"ident": "WZZ574", "dest": "EPWA", "pitr": "2018-03-14 22:08:11", "id": "WZZ574-1521008076-ed-0001", "reg": "HALWM", "orig": "LZIB"}
 {"ident": "LOT3950", "dest": "EPWA", "pitr": "2018-03-14 22:11:09", "id": "LOT3950-1520835932-airline-0033", "reg": "SPLLF", "orig": "EPPO"}
 {"ident": "WZZ532", "dest": "EPWA", "pitr": "2018-03-14 22:14:30", "id": "WZZ532-1521005829-ed-0008", "reg": "HALXM", "orig": "LIRN"}
-{"ident": "LOT4VM", "dest": "EPWA", "pitr": "2018-03-14 22:45:27", "id": "LOT4VM-1521015991-ed-0011", "reg": "YRBMK", "orig": "L 51.31325 6.82154"}
 {"ident": "TVS165F", "dest": "EPWA", "pitr": "2018-03-14 23:42:36", "id": "TVS165F-1521049015-ed-0005", "reg": "OKTVW", "orig": "LKPR"}
 {"ident": "QTR263", "dest": "EPWA", "pitr": "2018-03-14 23:50:56", "id": "QTR263-1520894700-schedule-0000", "reg": "A7AEB", "orig": "OTHH"}
 {"ident": "WZZ133", "dest": "EPWA", "pitr": "2018-03-15 00:52:40", "id": "WZZ133-1521013531-ed-0002", "reg": "HALXS", "orig": "EGGW"}
@@ -2301,7 +2263,6 @@
 {"ident": "UPS4", "dest": "EPWA", "pitr": "2018-03-15 06:29:02", "id": "UPS4-1521071472-ed-0005", "reg": "N296UP", "orig": "EDDK"}
 {"ident": "UPS244", "dest": "EPWA", "pitr": "2018-03-15 06:31:06", "id": "UPS244-1521072734-ed-0002", "reg": "N429UP", "orig": "EGSS"}
 {"ident": "LOT636", "dest": "EPWA", "pitr": "2018-03-15 06:39:45", "id": "LOT636-1520912700-schedule-0000", "reg": "SPLIN", "orig": "LBSF"}
-{"ident": "TVS19J", "dest": "EPWA", "pitr": "2018-03-15 06:46:30", "id": "TVS19J-1521068152-ed-0002", "reg": "OKJRT", "orig": "L 50.13071 14.32343"}
 {"ident": "EWG9724", "dest": "EPWA", "pitr": "2018-03-15 06:50:53", "id": "EWG9724-1520919300-schedule-0002", "reg": "DAEWG", "orig": "EDDL"}
 {"ident": "AFL2006", "dest": "EPWA", "pitr": "2018-03-15 06:53:30", "id": "AFL2006-1520920500-schedule-0000", "reg": "VPBID", "orig": "UUEE"}
 {"ident": "TAY83G", "dest": "EPWA", "pitr": "2018-03-15 06:54:07", "id": "TAY83G-1521050395-ed-0027", "reg": "OEIAQ", "orig": "EBLG"}
@@ -2309,7 +2270,6 @@
 {"ident": "LOT384", "dest": "EPWA", "pitr": "2018-03-15 06:57:50", "id": "LOT384-1520920800-schedule-0000", "reg": "SPLDG", "orig": "EDDF"}
 {"ident": "DLH1346", "dest": "EPWA", "pitr": "2018-03-15 07:00:45", "id": "DLH1346-1520920800-schedule-0001", "reg": "DAIUL", "orig": "EDDF"}
 {"ident": "OAW1342", "dest": "EPWA", "pitr": "2018-03-15 07:00:46", "id": "OAW1342-1520921100-schedule-0001", "reg": "HBJVE", "orig": "LSZH"}
-{"ident": "TFL326", "dest": "EPWA", "pitr": "2018-03-15 07:08:28", "id": "TFL326-1521039956-ed-0000", "reg": "PHOYI", "orig": "L -2.60028 38.26911"}
 {"ident": "LOT376", "dest": "EPWA", "pitr": "2018-03-15 07:13:46", "id": "LOT376-1520920800-schedule-0000", "reg": "SPLNC", "orig": "EDDM"}
 {"ident": "LOT402", "dest": "EPWA", "pitr": "2018-03-15 07:20:10", "id": "LOT402-1520921100-schedule-0000", "reg": "SPEQH", "orig": "EDDH"}
 {"ident": "OAW1342", "dest": "EPWA", "pitr": "2018-03-15 07:21:10", "id": "SWR1342-1521059449-ed-0004", "reg": "HBJVE", "orig": "LSZH"}
@@ -2377,7 +2337,6 @@
 {"ident": "LOT3802", "dest": "EPWA", "pitr": "2018-03-15 15:07:50", "id": "LOT3802-1520922338-airline-0303", "reg": "SPLND", "orig": "EPRZ"}
 {"ident": "QGA602D", "dest": "EPWA", "pitr": "2018-03-15 15:15:14", "id": "DBEKP-1521071166-dlad-15290813", "reg": "DBEKP", "orig": "LSGG"}
 {"ident": "LOT3906", "dest": "EPWA", "pitr": "2018-03-15 15:15:39", "id": "LOT3906-1520922338-airline-0263", "reg": "YRBMN", "orig": "EPKK"}
-{"ident": "TVP7131", "dest": "EPWA", "pitr": "2018-03-15 15:22:58", "id": "TVP7131-1521068019-ed-0000", "reg": "OKTVW", "orig": "L 28.82677 33.04811"}
 {"ident": "LOT3934", "dest": "EPWA", "pitr": "2018-03-15 15:23:22", "id": "LOT3934-1520922338-airline-0087", "reg": "SPLID", "orig": "EPSC"}
 {"ident": "EAY768", "dest": "EPWA", "pitr": "2018-03-15 15:43:44", "id": "EAY768-1520922338-airline-0032", "reg": "ESACK", "orig": "UKOO"}
 {"ident": "LOT766", "dest": "EPWA", "pitr": "2018-03-15 15:45:01", "id": "LOT766-1520922338-airline-0310", "reg": "SPLIO", "orig": "UKLL"}
@@ -2409,7 +2368,6 @@
 {"ident": "LOT3808", "dest": "EPWA", "pitr": "2018-03-15 18:58:56", "id": "LOT3808-1520922338-airline-0258", "reg": "SPEQD", "orig": "EPRZ"}
 {"ident": "ADR631", "dest": "EPWA", "pitr": "2018-03-15 19:08:56", "id": "ADR631-1520922338-airline-0027", "reg": "S5AAK", "orig": "LOWW"}
 {"ident": "AFR1246", "dest": "EPWA", "pitr": "2018-03-15 19:18:25", "id": "AFR1246-1520922332-airline-0298", "reg": "FGRHK", "orig": "LFPG"}
-{"ident": "ENT7084", "dest": "EPWA", "pitr": "2018-03-15 19:22:33", "id": "ENT7084-1521123595-adhoc-0", "reg": "SPENT", "orig": "L 29.02075 32.85847"}
 {"ident": "AUI803", "dest": "EPWA", "pitr": "2018-03-15 19:23:52", "id": "AUI803-1520922340-airline-0235", "reg": "URPSN", "orig": "UKBB"}
 {"ident": "EAY776", "dest": "EPWA", "pitr": "2018-03-15 19:24:36", "id": "EAY776-1520922338-airline-0125", "reg": "ESACL", "orig": "EYVI"}
 {"ident": "BAW846", "dest": "EPWA", "pitr": "2018-03-15 19:28:25", "id": "BAW846-1521016200-schedule-0000", "reg": "GEUYK", "orig": "EGLL"}
@@ -2582,7 +2540,6 @@
 {"ident": "EAY780", "dest": "EPWA", "pitr": "2018-03-16 16:49:32", "id": "EAY780-1521036000-schedule-0000", "reg": "ESACK", "orig": "EYVI"}
 {"ident": "WZZ1442", "dest": "EPWA", "pitr": "2018-03-16 16:54:42", "id": "WZZ1442-1521030816-airline-0381", "reg": "HALXM", "orig": "LIRF"}
 {"ident": "AFL2002", "dest": "EPWA", "pitr": "2018-03-16 16:58:46", "id": "AFL2002-1521030814-airline-0093", "reg": "VQBSG", "orig": "UUEE"}
-{"ident": "TVP7617", "dest": "EPWA", "pitr": "2018-03-16 17:21:27", "id": "TVP7617-1521146281-ed-0010", "reg": "CGTSI", "orig": "L 17.14513 89.00988"}
 {"ident": "LOT754", "dest": "EPWA", "pitr": "2018-03-16 17:22:01", "id": "LOT754-1521030810-airline-0340", "reg": "SPLND", "orig": "UKBB"}
 {"ident": "OAW1352", "dest": "EPWA", "pitr": "2018-03-16 17:22:56", "id": "OAW1352-1521030810-airline-0416", "reg": "HBJVG", "orig": "LSZH"}
 {"ident": "OAW1352", "dest": "EPWA", "pitr": "2018-03-16 17:33:34", "id": "SWR1352-1521179502-ed-0002", "reg": "HBJVG", "orig": "LSZH"}
@@ -2645,7 +2602,6 @@
 {"ident": "WZZ921", "dest": "EPWA", "pitr": "2018-03-17 00:24:20", "id": "WZZ921-1521184675-ed-0006", "reg": "HALYS", "orig": "LFMN"}
 {"ident": "LOT27", "dest": "EPWA", "pitr": "2018-03-17 01:33:42", "id": "LOT27-1521030810-airline-0255", "reg": "SPLRF", "orig": "KJFK"}
 {"ident": "LOT4", "dest": "EPWA", "pitr": "2018-03-17 01:43:45", "id": "LOT4-1521030810-airline-0099", "reg": "SPLRA", "orig": "KORD"}
-{"ident": "WZZ208", "dest": "EPWA", "pitr": "2018-03-17 02:05:27", "id": "WZZ208-1521184039-ed-0025", "reg": "HALXS", "orig": "L 34.83308 33.57450"}
 {"ident": "WZZ133", "dest": "EPWA", "pitr": "2018-03-17 02:16:20", "id": "WZZ133-1521187801-ed-0003", "reg": "HALXM", "orig": "EGGW"}
 {"ident": "LOT80", "dest": "EPWA", "pitr": "2018-03-17 02:59:22", "id": "LOT80-1521078900-schedule-0002", "reg": "SPLRD", "orig": "RJAA"}
 {"ident": "LOT172", "dest": "EPWA", "pitr": "2018-03-17 03:10:19", "id": "LOT172-1521078000-schedule-0001", "reg": "SPLNF", "orig": "LCLK"}
@@ -2673,7 +2629,6 @@
 {"ident": "LOT402", "dest": "EPWA", "pitr": "2018-03-17 07:36:02", "id": "LOT402-1521093900-schedule-0000", "reg": "SPLND", "orig": "EDDH"}
 {"ident": "LOT286", "dest": "EPWA", "pitr": "2018-03-17 07:41:28", "id": "LOT286-1521095400-schedule-0000", "reg": "SPLVA", "orig": "EGLL"}
 {"ident": "EAY460", "dest": "EPWA", "pitr": "2018-03-17 07:41:37", "id": "EAY460-1521093600-schedule-0000", "reg": "ESACI", "orig": "EKCH"}
-{"ident": "MSC613", "dest": "EPWA", "pitr": "2018-03-17 07:47:57", "id": "MSC613-1521252863-adhoc-0", "reg": "SUBSM", "orig": "L 26.97772 34.11582"}
 {"ident": "LOT334", "dest": "EPWA", "pitr": "2018-03-17 07:50:57", "id": "LOT334-1521095400-schedule-0003", "reg": "SPLDE", "orig": "LFPG"}
 {"ident": "EAY790", "dest": "EPWA", "pitr": "2018-03-17 08:32:14", "id": "EAY790-1521098700-schedule-0000", "reg": "ESACH", "orig": "EETN"}
 {"ident": "AZA490", "dest": "EPWA", "pitr": "2018-03-17 08:36:09", "id": "AZA490-1521095165-airline-0013", "reg": "IBIKI", "orig": "LIRF"}
@@ -2721,7 +2676,6 @@
 {"ident": "LOT438", "dest": "EPWA", "pitr": "2018-03-17 13:27:51", "id": "LOT438-1521095170-airline-0189", "reg": "SPLWA", "orig": "LEBL"}
 {"ident": "LOT612", "dest": "EPWA", "pitr": "2018-03-17 13:28:03", "id": "LOT612-1521095170-airline-0338", "reg": "SPLDI", "orig": "LDZA"}
 {"ident": "QTR261", "dest": "EPWA", "pitr": "2018-03-17 13:31:59", "id": "QTR261-1521095172-airline-0037", "reg": "A7AHS", "orig": "OTHH"}
-{"ident": "ENT7054", "dest": "EPWA", "pitr": "2018-03-17 13:34:03", "id": "ENT7054-1521279039-adhoc-0", "reg": "SPENT", "orig": "L 36.86911 30.78831"}
 {"ident": "LOT412", "dest": "EPWA", "pitr": "2018-03-17 13:41:38", "id": "LOT412-1521095170-airline-0100", "reg": "SPLLG", "orig": "LSZH"}
 {"ident": "LOT528", "dest": "EPWA", "pitr": "2018-03-17 13:56:03", "id": "LOT528-1521095170-airline-0096", "reg": "SPLDE", "orig": "LKPR"}
 {"ident": "LOT536", "dest": "EPWA", "pitr": "2018-03-17 13:58:20", "id": "LOT536-1521095170-airline-0251", "reg": "SPLII", "orig": "LHBP"}
@@ -2776,7 +2730,6 @@
 {"ident": "LOT420", "dest": "EPWA", "pitr": "2018-03-17 19:59:18", "id": "LOT420-1521095170-airline-0205", "reg": "SPLNB", "orig": "LSZH"}
 {"ident": "LOT416", "dest": "EPWA", "pitr": "2018-03-17 20:04:34", "id": "LOT416-1521095170-airline-0199", "reg": "SPLNE", "orig": "LSGG"}
 {"ident": "LOT280", "dest": "EPWA", "pitr": "2018-03-17 20:07:06", "id": "LOT280-1521095170-airline-0145", "reg": "SPLVB", "orig": "EGLL"}
-{"ident": "LLP8050", "dest": "EPWA", "pitr": "2018-03-17 20:20:17", "id": "LLP8050-1521298784-adhoc-0", "reg": "SPHAG", "orig": "L 27.02637 34.04896"}
 {"ident": "LOT614", "dest": "EPWA", "pitr": "2018-03-17 20:29:40", "id": "LOT614-1521095170-airline-0162", "reg": "SPLIK", "orig": "LDZA"}
 {"ident": "LOT336", "dest": "EPWA", "pitr": "2018-03-17 20:40:42", "id": "LOT336-1521095170-airline-0381", "reg": "SPLIB", "orig": "LFPG"}
 {"ident": "WZZ1560", "dest": "EPWA", "pitr": "2018-03-17 21:26:24", "id": "WZZ1560-1521095174-airline-0120", "reg": "HALXN", "orig": "LLBG"}
@@ -2809,7 +2762,6 @@
 {"ident": "BMS644", "dest": "EPWA", "pitr": "2018-03-18 05:01:26", "id": "BMS644-1521181566-airline-0122", "reg": "YRBMJ", "orig": "LROP"}
 {"ident": "UAE179", "dest": "EPWA", "pitr": "2018-03-18 05:13:43", "id": "UAE179-1521173100-schedule-0001", "reg": "A6ECY", "orig": "OMDB"}
 {"ident": "TVS384F", "dest": "EPWA", "pitr": "2018-03-18 06:26:46", "id": "TVS384F-1521311787-ed-0012", "reg": "SPTVZ", "orig": "LFQQ"}
-{"ident": "TVP7611", "dest": "EPWA", "pitr": "2018-03-18 06:56:00", "id": "TVP7611-1521309464-ed-0010", "reg": "CGTSI", "orig": "L -3.00490 37.97192"}
 {"ident": "LOT270", "dest": "EPWA", "pitr": "2018-03-18 07:06:24", "id": "LOT270-1521180300-schedule-0000", "reg": "SPLNF", "orig": "EHAM"}
 {"ident": "DLH1346", "dest": "EPWA", "pitr": "2018-03-18 07:12:49", "id": "DLH1346-1521180000-schedule-0002", "reg": "DAIUN", "orig": "EDDF"}
 {"ident": "AFL2006", "dest": "EPWA", "pitr": "2018-03-18 07:17:46", "id": "AFL2006-1521179700-schedule-0000", "reg": "VPBZO", "orig": "UUEE"}
@@ -2937,7 +2889,6 @@
 {"ident": "LOT320", "dest": "EPWA", "pitr": "2018-03-18 21:46:17", "id": "LOT320-1521181566-airline-0429", "reg": "SPLDI", "orig": "LIMC"}
 {"ident": "KLM1369", "dest": "EPWA", "pitr": "2018-03-18 21:51:08", "id": "KLM1369-1521181565-airline-0366", "reg": "PHEZU", "orig": "EHAM"}
 {"ident": "LOT4VM", "dest": "EPWA", "pitr": "2018-03-18 21:54:50", "id": "LOT4VM-1521369258-ed-0002", "reg": "YRBMK", "orig": "EDDL"}
-{"ident": "LOT268", "dest": "EPWA", "pitr": "2018-03-18 22:00:51", "id": "LOT268-1521367336-ed-0005", "reg": "YRBMJ", "orig": "L 52.34497 4.71031"}
 {"ident": "WZZ574", "dest": "EPWA", "pitr": "2018-03-18 22:06:27", "id": "WZZ574-1521354896-ed-0005", "reg": "HALYS", "orig": "LZIB"}
 {"ident": "LOT254", "dest": "EPWA", "pitr": "2018-03-18 22:07:38", "id": "LOT254-1521181566-airline-0268", "reg": "SPLDF", "orig": "ELLX"}
 {"ident": "WZZ1382", "dest": "EPWA", "pitr": "2018-03-18 22:15:11", "id": "WZZ1382-1521181571-airline-0402", "reg": "HALXS", "orig": "EBCI"}
@@ -2948,8 +2899,6 @@
 {"ident": "BCY2761", "dest": "EPWA", "pitr": "2018-03-18 23:11:17", "id": "BCY2761-1521181569-airline-0138", "reg": "EIFPO", "orig": "EKCH"}
 {"ident": "LLP9769", "dest": "EPWA", "pitr": "2018-03-18 23:32:13", "id": "LLP9769-1521393749-9-1-51", "reg": "SPHAH", "orig": "EDDL"}
 {"ident": "LLP9235", "dest": "EPWA", "pitr": "2018-03-18 23:45:11", "id": "LLP9235-1521405356-adhoc-0", "reg": "DASPC", "orig": "LFLL"}
-{"ident": "SAS2761", "dest": "EPWA", "pitr": "2018-03-19 00:26:26", "id": "SAS2761-1521331490-ed-0006", "reg": "EIFPO", "orig": "L 55.63797 12.71235"}
-{"ident": "WZZ665", "dest": "EPWA", "pitr": "2018-03-19 01:02:19", "id": "WZZ665-1521359669-ed-0004", "reg": "HALWM", "orig": "L 38.92996 16.08807"}
 {"ident": "TVP7605", "dest": "EPWA", "pitr": "2018-03-19 01:05:12", "id": "TVP7605-1521359964-ed-0009", "reg": "OKTSH", "orig": "GVAC"}
 {"ident": "WZZ133", "dest": "EPWA", "pitr": "2018-03-19 01:45:21", "id": "WZZ133-1521360019-ed-0008", "reg": "HALXN", "orig": "EGGW"}
 {"ident": "LOT92", "dest": "EPWA", "pitr": "2018-03-19 02:03:15", "id": "LOT92-1521247500-schedule-0001", "reg": "SPLRE", "orig": "ZBAA"}
@@ -3090,7 +3039,6 @@
 {"ident": "OAW1352", "dest": "EPWA", "pitr": "2018-03-19 17:15:07", "id": "OAW1352-1521303300-schedule-0000", "reg": "HBJVH", "orig": "LSZH"}
 {"ident": "WZZ1520", "dest": "EPWA", "pitr": "2018-03-19 17:21:51", "id": "WZZ1520-1521302400-schedule-0001", "reg": "HALYD", "orig": "ENBR"}
 {"ident": "CSA776", "dest": "EPWA", "pitr": "2018-03-19 17:28:27", "id": "CSA776-1521439654-airline-0106", "reg": "OKGFR", "orig": "LKPR"}
-{"ident": "SAS2751", "dest": "EPWA", "pitr": "2018-03-19 17:29:04", "id": "SAS2751-1521392818-ed-0015", "reg": "EIFPK", "orig": "L 55.58849 12.59840"}
 {"ident": "OAW1352", "dest": "EPWA", "pitr": "2018-03-19 17:31:55", "id": "SWR1352-1521404114-ed-0001", "reg": "HBJVH", "orig": "LSZH"}
 {"ident": "EAY788", "dest": "EPWA", "pitr": "2018-03-19 17:35:33", "id": "EAY788-1521302400-schedule-0003", "reg": "ESACK", "orig": "EETN"}
 {"ident": "CSA778", "dest": "EPWA", "pitr": "2018-03-19 17:36:50", "id": "CSA778-1521440758-airline-0335", "reg": "OKNFU", "orig": "LKPR"}
@@ -3140,7 +3088,6 @@
 {"ident": "WZZ921", "dest": "EPWA", "pitr": "2018-03-19 23:39:45", "id": "WZZ921-1521440591-ed-0007", "reg": "HALYS", "orig": "LFMN"}
 {"ident": "QTR263", "dest": "EPWA", "pitr": "2018-03-19 23:50:45", "id": "QTR263-1521326700-schedule-0000", "reg": "A7AEJ", "orig": "OTHH"}
 {"ident": "WZZ1310", "dest": "EPWA", "pitr": "2018-03-19 23:57:14", "id": "WZZ1310-1521305783-airline-0462", "reg": "HALXM", "orig": "EGGW"}
-{"ident": "WZZ208", "dest": "EPWA", "pitr": "2018-03-20 01:40:36", "id": "WZZ208-1521438017-ed-0004", "reg": "HALXS", "orig": "L 34.84598 33.59047"}
 {"ident": "LOT4", "dest": "EPWA", "pitr": "2018-03-20 01:59:51", "id": "LOT4-1521305774-airline-0102", "reg": "SPLRA", "orig": "KORD"}
 {"ident": "WZZ1594", "dest": "EPWA", "pitr": "2018-03-20 02:46:38", "id": "WZZ1594-1521336300-schedule-0000", "reg": "HALYK", "orig": "LPPT"}
 {"ident": "LOT80", "dest": "EPWA", "pitr": "2018-03-20 02:48:55", "id": "LOT80-1521338100-schedule-0000", "reg": "SPLRB", "orig": "RJAA"}
@@ -3271,7 +3218,6 @@
 {"ident": "LOT380", "dest": "EPWA", "pitr": "2018-03-20 19:55:01", "id": "LOT380-1521377053-airline-0258", "reg": "SPLWA", "orig": "EDDF"}
 {"ident": "LOT354", "dest": "EPWA", "pitr": "2018-03-20 19:55:43", "id": "LOT354-1521377053-airline-0308", "reg": "SPLNF", "orig": "EDDM"}
 {"ident": "EWG9722", "dest": "EPWA", "pitr": "2018-03-20 19:58:49", "id": "EWG9722-1521377049-airline-0226", "reg": "DABDQ", "orig": "EDDL"}
-{"ident": "LLP8050", "dest": "EPWA", "pitr": "2018-03-20 20:04:48", "id": "LLP8050-1521558137-adhoc-0", "reg": "DASPC", "orig": "L 26.98206 34.08399"}
 {"ident": "LOT420", "dest": "EPWA", "pitr": "2018-03-20 20:06:04", "id": "LOT420-1521377053-airline-0083", "reg": "SPLNC", "orig": "LSZH"}
 {"ident": "TFL322", "dest": "EPWA", "pitr": "2018-03-20 20:19:41", "id": "TFL322-1521572464-17-0-23", "reg": "PHOYI", "orig": "MKJS"}
 {"ident": "BMS268", "dest": "EPWA", "pitr": "2018-03-20 20:22:46", "id": "BMS268-1521377053-airline-0127", "reg": "YRBMJ", "orig": "EHAM"}
@@ -3345,7 +3291,6 @@
 {"ident": "LOT534", "dest": "EPWA", "pitr": "2018-03-21 08:58:39", "id": "LOT534-1521446400-schedule-0001", "reg": "SPLNC", "orig": "LHBP"}
 {"ident": "CSA24", "dest": "EPWA", "pitr": "2018-03-21 09:00:15", "id": "CSA24-1521440758-airline-0093", "reg": "OKMFT", "orig": "LKMT"}
 {"ident": "MKGTS", "dest": "EPWA", "pitr": "2018-03-21 09:02:42", "id": "MKGTS-1521616335-adhoc-0", "reg": "MKGTS", "orig": "EPGD"}
-{"ident": "BCY751", "dest": "EPWA", "pitr": "2018-03-21 09:03:51", "id": "SAS97Y-1521536802-ed-0008", "reg": "EIFPH", "orig": "L 55.58730 12.59583"}
 {"ident": "AUI801", "dest": "EPWA", "pitr": "2018-03-21 09:13:40", "id": "AUI801-1521440758-airline-0056", "reg": "URUIA", "orig": "UKBB"}
 {"ident": "WZZ1432", "dest": "EPWA", "pitr": "2018-03-21 09:13:51", "id": "WZZ1432-1521440762-airline-0080", "reg": "HALXN", "orig": "LIME"}
 {"ident": "WZZ493", "dest": "EPWA", "pitr": "2018-03-21 09:29:07", "id": "WZZ493-1521566966-ed-0003", "reg": "HALYD", "orig": "ESMS"}
@@ -3394,7 +3339,6 @@
 {"ident": "LOT3908", "dest": "EPWA", "pitr": "2018-03-21 12:25:48", "id": "LOT3908-1521440757-airline-0029", "reg": "SPLNB", "orig": "EPKK"}
 {"ident": "WZZ66", "dest": "EPWA", "pitr": "2018-03-21 12:33:55", "id": "WZZ66-1521572390-ed-0015", "reg": "HALYK", "orig": "LICC"}
 {"ident": "BAW850", "dest": "EPWA", "pitr": "2018-03-21 12:35:02", "id": "BAW850-1521613525-airline-0070", "reg": "GEUYJ", "orig": "EGLL"}
-{"ident": "LOT266", "dest": "EPWA", "pitr": "2018-03-21 12:36:13", "id": "LOT266-1521590733-ed-0001", "reg": "YRBMK", "orig": "L 52.26746 4.78384"}
 {"ident": "LOT3946", "dest": "EPWA", "pitr": "2018-03-21 12:41:45", "id": "LOT3946-1521440757-airline-0262", "reg": "SPEQF", "orig": "EPPO"}
 {"ident": "LOT342", "dest": "EPWA", "pitr": "2018-03-21 12:54:37", "id": "LOT342-1521440757-airline-0467", "reg": "SPLDH", "orig": "LFMN"}
 {"ident": "WZZ1372", "dest": "EPWA", "pitr": "2018-03-21 12:58:47", "id": "WZZ1372-1521440762-airline-0406", "reg": "HALYD", "orig": "EHEH"}
@@ -3426,7 +3370,6 @@
 {"ident": "LOT3838", "dest": "EPWA", "pitr": "2018-03-21 16:10:58", "id": "LOT3838-1521440757-airline-0323", "reg": "SPEQE", "orig": "EPGD"}
 {"ident": "WZZ1442", "dest": "EPWA", "pitr": "2018-03-21 16:11:36", "id": "WZZ1442-1521440762-airline-0081", "reg": "HALXM", "orig": "LIRF"}
 {"ident": "BCY2751", "dest": "EPWA", "pitr": "2018-03-21 16:13:12", "id": "BCY2751-1521440759-airline-0256", "reg": "EIFPO", "orig": "EKCH"}
-{"ident": "KLM1365", "dest": "EPWA", "pitr": "2018-03-21 16:18:09", "id": "KLM93N-1521617794-ed-0009", "reg": "PHEXV", "orig": "L 52.26105 4.80476"}
 {"ident": "EAY780", "dest": "EPWA", "pitr": "2018-03-21 16:19:42", "id": "EAY780-1521440757-airline-0133", "reg": "SPLIL", "orig": "EYVI"}
 {"ident": "DLH1350", "dest": "EPWA", "pitr": "2018-03-21 16:23:24", "id": "DLH1350-1521440757-airline-0300", "reg": "DAILK", "orig": "EDDF"}
 {"ident": "LOT6EC", "dest": "EPWA", "pitr": "2018-03-21 16:45:42", "id": "LOT6EC-1521618139-ed-0012", "reg": "SPLNC", "orig": "LROP"}
@@ -3478,7 +3421,6 @@
 {"ident": "WZZ532", "dest": "EPWA", "pitr": "2018-03-21 22:27:06", "id": "WZZ532-1521610252-ed-0004", "reg": "HALXN", "orig": "LIRN"}
 {"ident": "WZZ1310", "dest": "EPWA", "pitr": "2018-03-21 22:39:16", "id": "WZZ1310-1521440762-airline-0312", "reg": "HALXM", "orig": "EGGW"}
 {"ident": "BCY2761", "dest": "EPWA", "pitr": "2018-03-21 23:02:54", "id": "BCY2761-1521440759-airline-0277", "reg": "EIFPX", "orig": "EKCH"}
-{"ident": "LLP8876", "dest": "EPWA", "pitr": "2018-03-21 23:35:57", "id": "LLP8876-1521662192-adhoc-0", "reg": "SPHAG", "orig": "L 41.74205 34.77054"}
 {"ident": "QTR263", "dest": "EPWA", "pitr": "2018-03-21 23:49:58", "id": "QTR263-1521499500-schedule-0000", "reg": "A7AEO", "orig": "OTHH"}
 {"ident": "LOT4", "dest": "EPWA", "pitr": "2018-03-22 01:54:18", "id": "LOT4-1521440757-airline-0428", "reg": "SPLRH", "orig": "KORD"}
 {"ident": "WZZ1596", "dest": "EPWA", "pitr": "2018-03-22 02:44:47", "id": "WZZ1596-1521509700-schedule-0000", "reg": "HALYD", "orig": "LPPR"}
@@ -3509,7 +3451,6 @@
 {"ident": "OAW1342", "dest": "EPWA", "pitr": "2018-03-22 07:35:25", "id": "OAW1342-1521525900-schedule-0002", "reg": "HBJVE", "orig": "LSZH"}
 {"ident": "LOT406", "dest": "EPWA", "pitr": "2018-03-22 07:38:59", "id": "LOT406-1521526800-schedule-0000", "reg": "SPLIM", "orig": "EDDL"}
 {"ident": "OAW1342", "dest": "EPWA", "pitr": "2018-03-22 07:40:37", "id": "SWR1342-1521665699-ed-0000", "reg": "HBJVE", "orig": "LSZH"}
-{"ident": "TVP7613", "dest": "EPWA", "pitr": "2018-03-22 07:47:38", "id": "TVP7613-1521641061-ed-0002", "reg": "CGTSI", "orig": "L 18.62791 -68.26894"}
 {"ident": "LOT270", "dest": "EPWA", "pitr": "2018-03-22 07:48:19", "id": "LOT270-1521525900-schedule-0001", "reg": "SPLIN", "orig": "EHAM"}
 {"ident": "BCY751", "dest": "EPWA", "pitr": "2018-03-22 07:49:36", "id": "BCY751-1521527127-airline-0333", "reg": "EIFPH", "orig": "EKCH"}
 {"ident": "LOT334", "dest": "EPWA", "pitr": "2018-03-22 08:04:06", "id": "LOT334-1521527400-schedule-0004", "reg": "SPLDF", "orig": "LFPG"}
@@ -3541,7 +3482,6 @@
 {"ident": "LOT3932", "dest": "EPWA", "pitr": "2018-03-22 10:29:14", "id": "LOT3932-1521527127-airline-0417", "reg": "SPEQH", "orig": "EPSC"}
 {"ident": "KLM1363", "dest": "EPWA", "pitr": "2018-03-22 10:31:28", "id": "KLM1363-1521527126-airline-0258", "reg": "PHBGU", "orig": "EHAM"}
 {"ident": "LOT534", "dest": "EPWA", "pitr": "2018-03-22 10:35:19", "id": "LOT534-1521527127-airline-0195", "reg": "SPLIB", "orig": "LHBP"}
-{"ident": "BCY751", "dest": "EPWA", "pitr": "2018-03-22 10:35:33", "id": "SAS97Y-1521623398-ed-0005", "reg": "EIFPH", "orig": "L 55.58724 12.59737"}
 {"ident": "AFR1146", "dest": "EPWA", "pitr": "2018-03-22 10:45:39", "id": "AFR1146-1521527120-airline-0200", "reg": "FGTAZ", "orig": "LFPG"}
 {"ident": "DLH1612", "dest": "EPWA", "pitr": "2018-03-22 10:53:04", "id": "DLH1612-1521527127-airline-0140", "reg": "DAIBG", "orig": "EDDM"}
 {"ident": "CSA776", "dest": "EPWA", "pitr": "2018-03-22 10:55:40", "id": "CSA776-1521699943-airline-0212", "reg": "OKMFT", "orig": "LKPR"}
@@ -3611,7 +3551,6 @@
 {"ident": "LOT634", "dest": "EPWA", "pitr": "2018-03-22 18:44:58", "id": "LOT634-1521527127-airline-0017", "reg": "SPLDI", "orig": "LBSF"}
 {"ident": "LOT646", "dest": "EPWA", "pitr": "2018-03-22 18:59:50", "id": "LOT646-1521527127-airline-0275", "reg": "SPLIC", "orig": "LROP"}
 {"ident": "ADR631", "dest": "EPWA", "pitr": "2018-03-22 19:03:28", "id": "ADR631-1521527129-airline-0090", "reg": "S5AAO", "orig": "LOWW"}
-{"ident": "ENT7084", "dest": "EPWA", "pitr": "2018-03-22 19:05:28", "id": "SPESA-1521726740-adhoc-0", "reg": "SPESA", "orig": "L 28.35636 33.50130"}
 {"ident": "EAY776", "dest": "EPWA", "pitr": "2018-03-22 19:07:42", "id": "EAY776-1521527127-airline-0040", "reg": "ESACH", "orig": "EYVI"}
 {"ident": "LOT3816", "dest": "EPWA", "pitr": "2018-03-22 19:11:35", "id": "LOT3816-1521527127-airline-0307", "reg": "SPEQF", "orig": "EPGD"}
 {"ident": "AUI803", "dest": "EPWA", "pitr": "2018-03-22 19:19:38", "id": "AUI803-1521527129-airline-0280", "reg": "URPSV", "orig": "UKBB"}
@@ -3638,7 +3577,6 @@
 {"ident": "QGA629D", "dest": "EPWA", "pitr": "2018-03-22 21:43:18", "id": "DBEKP-1521698833-dlad-15336827", "reg": "DBEKP", "orig": "LEMG"}
 {"ident": "WZZ1382", "dest": "EPWA", "pitr": "2018-03-22 21:45:12", "id": "WZZ1382-1521527133-airline-0377", "reg": "HALXN", "orig": "EBCI"}
 {"ident": "WZZ1560", "dest": "EPWA", "pitr": "2018-03-22 21:50:55", "id": "WZZ1560-1521527133-airline-0330", "reg": "HALXJ", "orig": "LLBG"}
-{"ident": "LLP88QM", "dest": "EPWA", "pitr": "2018-03-22 21:52:47", "id": "LLP88QM-1521731436-adhoc-0", "reg": "SPHAG", "orig": "L 28.05848 -16.53265"}
 {"ident": "BCY2761", "dest": "EPWA", "pitr": "2018-03-22 21:53:28", "id": "BCY2761-1521527130-airline-0051", "reg": "EIFPH", "orig": "EKCH"}
 {"ident": "BMS408", "dest": "EPWA", "pitr": "2018-03-22 21:55:46", "id": "BMS408-1521527127-airline-0433", "reg": "YRBMK", "orig": "EDDL"}
 {"ident": "LOT354", "dest": "EPWA", "pitr": "2018-03-22 21:57:40", "id": "LOT354-1521527127-airline-0096", "reg": "SPLLF", "orig": "EDDM"}
@@ -3651,7 +3589,6 @@
 {"ident": "WZZ1310", "dest": "EPWA", "pitr": "2018-03-22 22:44:59", "id": "WZZ1310-1521527133-airline-0104", "reg": "HALXM", "orig": "EGGW"}
 {"ident": "WZZ1540", "dest": "EPWA", "pitr": "2018-03-22 22:54:16", "id": "WZZ1540-1521527133-airline-0165", "reg": "HALYH", "orig": "BIKF"}
 {"ident": "LOT4VM", "dest": "EPWA", "pitr": "2018-03-22 22:55:39", "id": "LOT4VM-1521713361-ed-0000", "reg": "YRBMK", "orig": "EDDL"}
-{"ident": "LOT7HA", "dest": "EPWA", "pitr": "2018-03-22 22:55:42", "id": "LOT7HA-1521720071-ed-0006", "reg": "SPLWC", "orig": "L 48.68431 9.06781"}
 {"ident": "WZZ1476", "dest": "EPWA", "pitr": "2018-03-22 23:02:31", "id": "WZZ1476-1521527133-airline-0340", "reg": "HALYD", "orig": "LEBL"}
 {"ident": "TVS7377", "dest": "EPWA", "pitr": "2018-03-22 23:08:21", "id": "TVS7377-1521527130-airline-0105", "reg": "OKTSH", "orig": "GCFV"}
 {"ident": "KLM1369", "dest": "EPWA", "pitr": "2018-03-22 23:42:34", "id": "KLM85R-1521729724-ed-0001", "reg": "PHEZM", "orig": "EHAM"}
@@ -3701,7 +3638,6 @@
 {"ident": "EAY456", "dest": "EPWA", "pitr": "2018-03-23 09:42:51", "id": "EAY456-1521615300-schedule-0000", "reg": "ESACJ", "orig": "ESSA"}
 {"ident": "WZZ1302", "dest": "EPWA", "pitr": "2018-03-23 09:51:12", "id": "WZZ1302-1521613534-airline-0155", "reg": "HALXJ", "orig": "EGGW"}
 {"ident": "LOT3832", "dest": "EPWA", "pitr": "2018-03-23 09:51:12", "id": "LOT3832-1521613529-airline-0359", "reg": "SPEQH", "orig": "EPGD"}
-{"ident": "BCY751", "dest": "EPWA", "pitr": "2018-03-23 09:51:34", "id": "SAS97Y-1521710073-ed-0011", "reg": "EIFPX", "orig": "L 55.59192 12.60248"}
 {"ident": "LOT534", "dest": "EPWA", "pitr": "2018-03-23 09:52:29", "id": "LOT534-1521613530-airline-0288", "reg": "SPEQE", "orig": "LHBP"}
 {"ident": "LOT3958", "dest": "EPWA", "pitr": "2018-03-23 09:53:08", "id": "LOT3958-1521613530-airline-0193", "reg": "SPEQE", "orig": "EPPO"}
 {"ident": "AZA490", "dest": "EPWA", "pitr": "2018-03-23 09:59:50", "id": "AZA490-1521613524-airline-0019", "reg": "IBIKI", "orig": "LIRF"}
@@ -3732,7 +3668,6 @@
 {"ident": "LOT352", "dest": "EPWA", "pitr": "2018-03-23 12:00:41", "id": "LOT352-1521613529-airline-0382", "reg": "SPLLF", "orig": "EDDM"}
 {"ident": "LOT400", "dest": "EPWA", "pitr": "2018-03-23 12:01:18", "id": "LOT400-1521613530-airline-0141", "reg": "SPEQK", "orig": "EDDH"}
 {"ident": "LOT282", "dest": "EPWA", "pitr": "2018-03-23 12:04:37", "id": "LOT282-1521613529-airline-0360", "reg": "SPLVB", "orig": "EGLL"}
-{"ident": "KLM1363", "dest": "EPWA", "pitr": "2018-03-23 12:09:58", "id": "KLM53W-1521797171-ed-0000", "reg": "PHBGQ", "orig": "L 52.26713 4.78408"}
 {"ident": "LOT252", "dest": "EPWA", "pitr": "2018-03-23 12:20:37", "id": "LOT252-1521613529-airline-0050", "reg": "SPLDG", "orig": "ELLX"}
 {"ident": "DLH1348", "dest": "EPWA", "pitr": "2018-03-23 12:29:23", "id": "DLH1348-1521613529-airline-0280", "reg": "DAIPH", "orig": "EDDF"}
 {"ident": "LOT3946", "dest": "EPWA", "pitr": "2018-03-23 12:38:40", "id": "LOT3946-1521613530-airline-0025", "reg": "SPLDE", "orig": "EPPO"}
@@ -3742,7 +3677,6 @@
 {"ident": "LOT3836", "dest": "EPWA", "pitr": "2018-03-23 13:02:13", "id": "LOT3836-1521613529-airline-0321", "reg": "SPEQD", "orig": "EPGD"}
 {"ident": "EAY464", "dest": "EPWA", "pitr": "2018-03-23 13:08:06", "id": "EAY464-1521613530-airline-0056", "reg": "ESACL", "orig": "EKCH"}
 {"ident": "WZZ1502", "dest": "EPWA", "pitr": "2018-03-23 13:13:15", "id": "WZZ1502-1521613534-airline-0285", "reg": "HALYK", "orig": "ESKN"}
-{"ident": "LOT454", "dest": "EPWA", "pitr": "2018-03-23 13:15:31", "id": "LOT454-1521718254-ed-0001", "reg": "SPLNC", "orig": "L 59.66577 17.99400"}
 {"ident": "BRU895", "dest": "EPWA", "pitr": "2018-03-23 13:21:05", "id": "BRU895-1521613524-airline-0176", "reg": "EW404PA", "orig": "UMMS"}
 {"ident": "LOT412", "dest": "EPWA", "pitr": "2018-03-23 13:25:09", "id": "LOT412-1521613530-airline-0166", "reg": "SPLLE", "orig": "LSZH"}
 {"ident": "LOT676", "dest": "EPWA", "pitr": "2018-03-23 13:40:00", "id": "LOT676-1521613530-airline-0247", "reg": "SPLNF", "orig": "UUEE"}
@@ -3810,7 +3744,6 @@
 {"ident": "LOT380", "dest": "EPWA", "pitr": "2018-03-23 20:15:36", "id": "LOT380-1521613529-airline-0010", "reg": "SPLLE", "orig": "EDDF"}
 {"ident": "LOT420", "dest": "EPWA", "pitr": "2018-03-23 20:17:38", "id": "LOT420-1521613530-airline-0169", "reg": "SPLIL", "orig": "LSZH"}
 {"ident": "LOT390", "dest": "EPWA", "pitr": "2018-03-23 20:23:39", "id": "LOT390-1521613529-airline-0348", "reg": "SPLNF", "orig": "EDDT"}
-{"ident": "EWG9731", "dest": "EPWA", "pitr": "2018-03-23 21:00:20", "id": "EWG1AK-1521805826-7-2-2", "reg": "DAEWN", "orig": "L 51.26958 6.70663"}
 {"ident": "MOCNY", "dest": "EPWA", "pitr": "2018-03-23 21:35:28", "id": "MOCNY-1521807096-dlad-15345500", "reg": "MOCNY", "orig": "LFPB"}
 {"ident": "BEL2559", "dest": "EPWA", "pitr": "2018-03-23 21:37:56", "id": "BEL2559-1521613532-airline-0177", "reg": "OOSSI", "orig": "EBBR"}
 {"ident": "KLM1369", "dest": "EPWA", "pitr": "2018-03-23 21:47:25", "id": "KLM1369-1521613529-airline-0179", "reg": "PHEZA", "orig": "EHAM"}
@@ -3852,7 +3785,6 @@
 {"ident": "LOT3880", "dest": "EPWA", "pitr": "2018-03-24 06:33:02", "id": "LOT3880-1521693300-schedule-0001", "reg": "SPEQH", "orig": "EPKT"}
 {"ident": "LOT644", "dest": "EPWA", "pitr": "2018-03-24 06:34:40", "id": "LOT644-1521690000-schedule-0000", "reg": "SPLII", "orig": "LROP"}
 {"ident": "WZZ1553", "dest": "EPWA", "pitr": "2018-03-24 06:48:27", "id": "WZZ1553-1521806775-ed-0002", "reg": "HALYS", "orig": "LPPT"}
-{"ident": "TFL326", "dest": "EPWA", "pitr": "2018-03-24 06:49:53", "id": "TFL326-1521815035-ed-0007", "reg": "PHOYI", "orig": "L -2.88332 38.28209"}
 {"ident": "AFL2006", "dest": "EPWA", "pitr": "2018-03-24 06:55:12", "id": "AFL2006-1521698100-schedule-0000", "reg": "VQBIR", "orig": "UUEE"}
 {"ident": "QTR259", "dest": "EPWA", "pitr": "2018-03-24 07:04:36", "id": "QTR259-1521698700-schedule-0003", "reg": "A7AEN", "orig": "OTHH"}
 {"ident": "OAW1342", "dest": "EPWA", "pitr": "2018-03-24 07:07:28", "id": "OAW1342-1521698700-schedule-0002", "reg": "HBJVC", "orig": "LSZH"}
@@ -3934,7 +3866,6 @@
 {"ident": "WZZ1356", "dest": "EPWA", "pitr": "2018-03-24 15:05:42", "id": "WZZ1356-1521699945-airline-0211", "reg": "HALYD", "orig": "LFLL"}
 {"ident": "TDR263", "dest": "EPWA", "pitr": "2018-03-24 15:11:18", "id": "9ABTD-1521894361-adhoc-0", "reg": "9ABTD", "orig": "LJLJ"}
 {"ident": "ENT502", "dest": "EPWA", "pitr": "2018-03-24 15:16:19", "id": "ENT502-1521878486-3-0-45", "reg": "SPESA", "orig": "LSZH"}
-{"ident": "TVP7307", "dest": "EPWA", "pitr": "2018-03-24 15:17:43", "id": "TVP7307-1521826794-ed-0007", "reg": "OMGTF", "orig": "L 28.91034 -13.62299"}
 {"ident": "LOT9202", "dest": "EPWA", "pitr": "2018-03-24 15:21:18", "id": "LOT9202-1521852673-ed-0000", "reg": "SPLNE", "orig": "EPBY"}
 {"ident": "LOT3934", "dest": "EPWA", "pitr": "2018-03-24 15:21:47", "id": "LOT3934-1521699942-airline-0138", "reg": "SPLWD", "orig": "EPSC"}
 {"ident": "EAY786", "dest": "EPWA", "pitr": "2018-03-24 15:27:38", "id": "EAY786-1521699942-airline-0396", "reg": "ESACI", "orig": "EETN"}
@@ -3974,7 +3905,6 @@
 {"ident": "LOT394", "dest": "EPWA", "pitr": "2018-03-24 19:56:42", "id": "LOT394-1521699942-airline-0022", "reg": "SPLDK", "orig": "EDDH"}
 {"ident": "LOT336", "dest": "EPWA", "pitr": "2018-03-24 20:10:23", "id": "LOT336-1521699942-airline-0045", "reg": "YRBMJ", "orig": "LFPG"}
 {"ident": "WZZ9LS", "dest": "EPWA", "pitr": "2018-03-24 20:12:51", "id": "WZZ9LS-1521871598-ed-0017", "reg": "HALYH", "orig": "LFLS"}
-{"ident": "LLP8050", "dest": "EPWA", "pitr": "2018-03-24 20:20:13", "id": "LLP8050-1521904239-adhoc-0", "reg": "SPHAG", "orig": "L 27.05763 34.08151"}
 {"ident": "LOT354", "dest": "EPWA", "pitr": "2018-03-24 20:29:20", "id": "LOT354-1521699942-airline-0300", "reg": "SPLWC", "orig": "EDDM"}
 {"ident": "LOT416", "dest": "EPWA", "pitr": "2018-03-24 20:31:40", "id": "LOT416-1521699942-airline-0234", "reg": "SPLNE", "orig": "LSGG"}
 {"ident": "BMS408", "dest": "EPWA", "pitr": "2018-03-24 20:58:08", "id": "BMS408-1521699942-airline-0094", "reg": "YRBMK", "orig": "EDDL"}
@@ -4000,7 +3930,6 @@
 {"ident": "LOT16", "dest": "EPWA", "pitr": "2018-03-25 04:29:04", "id": "LOT16-1521699942-airline-0061", "reg": "SPLRC", "orig": "KEWR"}
 {"ident": "MSC601", "dest": "EPWA", "pitr": "2018-03-25 04:58:19", "id": "MSC601-1521771300-schedule-0000", "reg": "SUGCD", "orig": "HEGN"}
 {"ident": "LOT152", "dest": "EPWA", "pitr": "2018-03-25 05:18:35", "id": "LOT152-1521772500-schedule-0001", "reg": "SPLWC", "orig": "LLBG"}
-{"ident": "TVP7707", "dest": "EPWA", "pitr": "2018-03-25 05:20:44", "id": "TVP7707-1521888074-ed-0003", "reg": "OKSWA", "orig": "L 45.24422 7.65028"}
 {"ident": "N217QS", "dest": "EPWA", "pitr": "2018-03-25 05:40:47", "id": "N217QS-1521949244-5-1-7", "reg": "N217QS", "orig": "EINN"}
 {"ident": "UAE179", "dest": "EPWA", "pitr": "2018-03-25 06:09:12", "id": "UAE179-1521778200-schedule-0000", "reg": "A6END", "orig": "OMDB"}
 {"ident": "LOT644", "dest": "EPWA", "pitr": "2018-03-25 06:20:38", "id": "LOT644-1521772500-schedule-0000", "reg": "SPLDG", "orig": "LROP"}
@@ -4018,13 +3947,11 @@
 {"ident": "AEE870", "dest": "EPWA", "pitr": "2018-03-25 08:58:13", "id": "AEE870-1521787800-schedule-0001", "reg": "SXDVM", "orig": "LGAV"}
 {"ident": "SWR1342", "dest": "EPWA", "pitr": "2018-03-25 09:02:09", "id": "SWR1342-1521913244-ed-0011", "reg": "HBJBC", "orig": "LSZH"}
 {"ident": "LOT334", "dest": "EPWA", "pitr": "2018-03-25 09:20:46", "id": "LOT334-1521781500-schedule-0001", "reg": "SPLIO", "orig": "LFPG"}
-{"ident": "DLH2UA", "dest": "EPWA", "pitr": "2018-03-25 09:24:12", "id": "DLH2UA-1521928352-ed-0000", "reg": "DAIPM", "orig": "L 50.04598 8.59198"}
 {"ident": "LOT224", "dest": "EPWA", "pitr": "2018-03-25 09:29:37", "id": "LOT224-1521789900-schedule-0000", "reg": "SPLNE", "orig": "LOWW"}
 {"ident": "AFL2000", "dest": "EPWA", "pitr": "2018-03-25 09:34:12", "id": "AFL2000-1521790800-schedule-0000", "reg": "VQBAY", "orig": "UUEE"}
 {"ident": "AFR1146", "dest": "EPWA", "pitr": "2018-03-25 09:55:24", "id": "AFR1146-1521790500-schedule-0000", "reg": "FGRHO", "orig": "LFPG"}
 {"ident": "KLM1363", "dest": "EPWA", "pitr": "2018-03-25 10:26:30", "id": "KLM1363-1521786345-airline-0229", "reg": "PHBXD", "orig": "EHAM"}
 {"ident": "LOT156", "dest": "EPWA", "pitr": "2018-03-25 10:29:31", "id": "LOT156-1521793500-schedule-0000", "reg": "SPLWA", "orig": "LLBG"}
-{"ident": "WZZ926", "dest": "EPWA", "pitr": "2018-03-25 10:33:04", "id": "WZZ926-1521908966-ed-0012", "reg": "HALWE", "orig": "L 47.41089 19.31227"}
 {"ident": "WZZ6SU", "dest": "EPWA", "pitr": "2018-03-25 10:35:45", "id": "WZZ6SU-1521909165-ed-0000", "reg": "HALYD", "orig": "EYVI"}
 {"ident": "DLH1346", "dest": "EPWA", "pitr": "2018-03-25 10:35:54", "id": "DLH1346-1521783900-schedule-0000", "reg": "DAISZ", "orig": "EDDF"}
 {"ident": "TAP1262", "dest": "EPWA", "pitr": "2018-03-25 10:36:15", "id": "TAP1262-1521955598-airline-0289", "reg": "CSTNQ", "orig": "LPPT"}
@@ -4034,7 +3961,6 @@
 {"ident": "WZZ568", "dest": "EPWA", "pitr": "2018-03-25 11:03:53", "id": "WZZ568-1521911626-ed-0002", "reg": "HALXJ", "orig": "LIME"}
 {"ident": "BMS332", "dest": "EPWA", "pitr": "2018-03-25 11:08:35", "id": "BMS332-1521794700-schedule-0001", "reg": "SPLNB", "orig": "LFPG"}
 {"ident": "LOT412", "dest": "EPWA", "pitr": "2018-03-25 11:22:24", "id": "LOT412-1521786346-airline-0210", "reg": "SPLDF", "orig": "LSZH"}
-{"ident": "WZZ6CS", "dest": "EPWA", "pitr": "2018-03-25 11:34:01", "id": "WZZ6CS-1521914434-ed-0012", "reg": "HALXM", "orig": "L 58.77965 16.82530"}
 {"ident": "WZZ3JZ", "dest": "EPWA", "pitr": "2018-03-25 11:35:37", "id": "WZZ3JZ-1521912421-ed-0011", "reg": "HALXN", "orig": "EGGW"}
 {"ident": "LOT3LC", "dest": "EPWA", "pitr": "2018-03-25 11:37:42", "id": "LOT3LC-1521924458-ed-0003", "reg": "SPLNA", "orig": "EDDM"}
 {"ident": "LOT282", "dest": "EPWA", "pitr": "2018-03-25 11:41:35", "id": "LOT282-1521796500-schedule-0000", "reg": "SPLVB", "orig": "EGLL"}
@@ -4099,10 +4025,8 @@
 {"ident": "LOT280", "dest": "EPWA", "pitr": "2018-03-25 19:19:19", "id": "LOT280-1521786346-airline-0388", "reg": "SPLRC", "orig": "EGLL"}
 {"ident": "AFR1246", "dest": "EPWA", "pitr": "2018-03-25 19:20:32", "id": "AFR1246-1521786341-airline-0265", "reg": "FGUGH", "orig": "LFPG"}
 {"ident": "AUA623", "dest": "EPWA", "pitr": "2018-03-25 19:30:12", "id": "AUA623-1521884971-airline-0034", "reg": "OELBS", "orig": "LOWW"}
-{"ident": "DLH3UJ", "dest": "EPWA", "pitr": "2018-03-25 19:30:43", "id": "DLH3UJ-1521960050-ed-0015", "reg": "DAING", "orig": "L 50.04900 8.60316"}
 {"ident": "AUI803", "dest": "EPWA", "pitr": "2018-03-25 19:31:47", "id": "AUI803-1521786347-airline-0223", "reg": "URPSS", "orig": "UKBB"}
 {"ident": "RYR2361", "dest": "EPWA", "pitr": "2018-03-25 19:33:34", "id": "RYR2361-1521786344-airline-0481", "reg": "EIFRO", "orig": "EPSC"}
-{"ident": "WZZ90", "dest": "EPWA", "pitr": "2018-03-25 19:36:15", "id": "WZZ90-1521952017-ed-0002", "reg": "HALYK", "orig": "L 38.88730 16.37769"}
 {"ident": "LOT678", "dest": "EPWA", "pitr": "2018-03-25 19:42:08", "id": "LOT678-1521786346-airline-0156", "reg": "SPLWA", "orig": "UUEE"}
 {"ident": "LOT462", "dest": "EPWA", "pitr": "2018-03-25 19:48:10", "id": "LOT462-1521786346-airline-0246", "reg": "SPLND", "orig": "EKCH"}
 {"ident": "LOT234", "dest": "EPWA", "pitr": "2018-03-25 19:48:37", "id": "LOT234-1521786346-airline-0097", "reg": "SPLVB", "orig": "EBBR"}
@@ -4125,7 +4049,6 @@
 {"ident": "BEL2559", "dest": "EPWA", "pitr": "2018-03-25 21:30:30", "id": "BEL2559-1521786347-airline-0140", "reg": "OOSSJ", "orig": "EBBR"}
 {"ident": "LOT3922", "dest": "EPWA", "pitr": "2018-03-25 21:52:30", "id": "LOT3922-1521786346-airline-0132", "reg": "SPEQE", "orig": "EPKK"}
 {"ident": "WZZ23", "dest": "EPWA", "pitr": "2018-03-25 22:01:14", "id": "WZZ23-1521948412-ed-0006", "reg": "HALXJ", "orig": "LICC"}
-{"ident": "KLM1369", "dest": "EPWA", "pitr": "2018-03-25 22:12:57", "id": "KLM85R-1521981252-ed-0008", "reg": "PHBGU", "orig": "L 52.36703 4.76760"}
 {"ident": "WZZ1568", "dest": "EPWA", "pitr": "2018-03-25 22:20:39", "id": "WZZ1568-1521786348-airline-0264", "reg": "HALYK", "orig": "UKKK"}
 {"ident": "WZZ392", "dest": "EPWA", "pitr": "2018-03-25 22:21:01", "id": "WZZ392-1521956190-ed-0006", "reg": "HALWE", "orig": "EGGW"}
 {"ident": "DLH8FU", "dest": "EPWA", "pitr": "2018-03-25 22:25:29", "id": "DLH8FU-1521974834-ed-0000", "reg": "DAIUF", "orig": "EDDF"}
@@ -4178,7 +4101,6 @@
 {"ident": "LOT334", "dest": "EPWA", "pitr": "2018-03-26 09:21:50", "id": "LOT334-1521867900-schedule-0001", "reg": "SPLIM", "orig": "LFPG"}
 {"ident": "LOT270", "dest": "EPWA", "pitr": "2018-03-26 09:23:10", "id": "LOT270-1521867900-schedule-0000", "reg": "SPLID", "orig": "EHAM"}
 {"ident": "WZZ926", "dest": "EPWA", "pitr": "2018-03-26 09:30:02", "id": "WZZ926-1521994763-ed-0001", "reg": "HALYH", "orig": "LHBP"}
-{"ident": "DLH2UA", "dest": "EPWA", "pitr": "2018-03-26 09:32:43", "id": "DLH2UA-1522014741-ed-0000", "reg": "DAILI", "orig": "L 50.04738 8.59754"}
 {"ident": "AFL2000", "dest": "EPWA", "pitr": "2018-03-26 09:39:35", "id": "AFL2000-1521877200-schedule-0000", "reg": "VPBZO", "orig": "UUEE"}
 {"ident": "AFR1146", "dest": "EPWA", "pitr": "2018-03-26 09:41:51", "id": "AFR1146-1521876900-schedule-0000", "reg": "FGRHF", "orig": "LFPG"}
 {"ident": "LOT3832", "dest": "EPWA", "pitr": "2018-03-26 09:46:01", "id": "LOT3832-1521874200-schedule-0000", "reg": "SPLIK", "orig": "EPGD"}
@@ -4259,7 +4181,6 @@
 {"ident": "BAW864", "dest": "EPWA", "pitr": "2018-03-26 18:04:42", "id": "BAW864W-1522040618-ed-0004", "reg": "GEUUG", "orig": "EGLL"}
 {"ident": "WZZ2525", "dest": "EPWA", "pitr": "2018-03-26 18:09:13", "id": "WZZ2525-1522022274-ed-0003", "reg": "HALXN", "orig": "LIRF"}
 {"ident": "TVS3184", "dest": "EPWA", "pitr": "2018-03-26 18:25:19", "id": "TVS3184-1522050724-ed-0023", "reg": "OKTVP", "orig": "LLBG"}
-{"ident": "KLM1365", "dest": "EPWA", "pitr": "2018-03-26 18:40:12", "id": "KLM93N-1522046418-ed-0005", "reg": "PHBGB", "orig": "L 52.25531 4.85635"}
 {"ident": "IBK5640", "dest": "EPWA", "pitr": "2018-03-26 18:47:39", "id": "IBK5640-1521884959-airline-0506", "reg": "EIFJH", "orig": "LEBL"}
 {"ident": "WZZ4MS", "dest": "EPWA", "pitr": "2018-03-26 18:56:23", "id": "WZZ4MS-1522036519-ed-0008", "reg": "HALYD", "orig": "ENBR"}
 {"ident": "WZZ264", "dest": "EPWA", "pitr": "2018-03-26 19:10:35", "id": "WZZ264-1522036897-ed-0004", "reg": "HALYS", "orig": "EGGP"}
@@ -4294,7 +4215,6 @@
 {"ident": "LOT336", "dest": "EPWA", "pitr": "2018-03-26 22:09:45", "id": "LOT336-1521884968-airline-0260", "reg": "SPLLE", "orig": "LFPG"}
 {"ident": "KLM1369", "dest": "EPWA", "pitr": "2018-03-26 22:23:19", "id": "KLM85R-1522067574-ed-0002", "reg": "PHBGU", "orig": "EHAM"}
 {"ident": "DLH8FU", "dest": "EPWA", "pitr": "2018-03-26 22:35:51", "id": "DLH8FU-1522061573-ed-0002", "reg": "DAIUI", "orig": "EDDF"}
-{"ident": "LOT8GW", "dest": "EPWA", "pitr": "2018-03-26 23:05:24", "id": "LOT8GW-1522062176-ed-0002", "reg": "SPLNF", "orig": "L 49.98840 8.52702"}
 {"ident": "LLX9062", "dest": "EPWA", "pitr": "2018-03-26 23:09:38", "id": "SPHAW-1522092314-adhoc-0", "reg": "SPHAW", "orig": "EHAM"}
 {"ident": "WZZ131D", "dest": "EPWA", "pitr": "2018-03-26 23:12:42", "id": "WZZ131D-1522044967-ed-0022", "reg": "HALXN", "orig": "ENTO"}
 {"ident": "WZZ581", "dest": "EPWA", "pitr": "2018-03-26 23:19:54", "id": "WZZ581-1522037242-ed-0011", "reg": "HALXM", "orig": "LCLK"}
@@ -4369,7 +4289,6 @@
 {"ident": "LOT412", "dest": "EPWA", "pitr": "2018-03-27 12:23:40", "id": "LOT412-1521955595-airline-0060", "reg": "SPLDE", "orig": "LSZH"}
 {"ident": "LOT382", "dest": "EPWA", "pitr": "2018-03-27 12:25:15", "id": "LOT382-1521955595-airline-0092", "reg": "SPLLG", "orig": "EDDF"}
 {"ident": "WZZ606", "dest": "EPWA", "pitr": "2018-03-27 12:26:11", "id": "WZZ606-1522086050-ed-0001", "reg": "HALXJ", "orig": "EGBB"}
-{"ident": "NJE821E", "dest": "EPWA", "pitr": "2018-03-27 12:36:07", "id": "NJE821E-1522116507-ed-0004", "reg": "CSPHF", "orig": "L 45.96140 8.88841"}
 {"ident": "LOT3946", "dest": "EPWA", "pitr": "2018-03-27 12:46:37", "id": "LOT3946-1521955595-airline-0080", "reg": "SPEQL", "orig": "EPPO"}
 {"ident": "DLH5LT", "dest": "EPWA", "pitr": "2018-03-27 12:46:44", "id": "DLH5LT-1522080992-ed-0004", "reg": "DAEBC", "orig": "EDDM"}
 {"ident": "WZZ1ZX", "dest": "EPWA", "pitr": "2018-03-27 12:50:17", "id": "WZZ1ZX-1522083751-ed-0002", "reg": "HALWE", "orig": "ESGG"}
@@ -4381,7 +4300,6 @@
 {"ident": "EAY400", "dest": "EPWA", "pitr": "2018-03-27 13:18:04", "id": "EAY400-1521955595-airline-0180", "reg": "ESACD", "orig": "EDDH"}
 {"ident": "LOT48B", "dest": "EPWA", "pitr": "2018-03-27 13:25:18", "id": "LOT48B-1522109842-ed-0001", "reg": "SPLNA", "orig": "ENGM"}
 {"ident": "WZZ1592", "dest": "EPWA", "pitr": "2018-03-27 13:26:41", "id": "WZZ1592-1521955598-airline-0163", "reg": "HALYS", "orig": "GMAD"}
-{"ident": "WZZ6CS", "dest": "EPWA", "pitr": "2018-03-27 13:43:07", "id": "WZZ6CS-1522094959-ed-0005", "reg": "HALYD", "orig": "L 58.78179 16.83673"}
 {"ident": "LOT536", "dest": "EPWA", "pitr": "2018-03-27 13:47:04", "id": "LOT536-1521955595-airline-0288", "reg": "SPLNC", "orig": "LHBP"}
 {"ident": "QTR261", "dest": "EPWA", "pitr": "2018-03-27 13:52:47", "id": "QTR261-1521955596-airline-0171", "reg": "A7AHW", "orig": "OTHH"}
 {"ident": "EAY786", "dest": "EPWA", "pitr": "2018-03-27 14:00:10", "id": "EAY786-1521955595-airline-0241", "reg": "ESACJ", "orig": "EETN"}
@@ -4390,12 +4308,10 @@
 {"ident": "DLH9AV", "dest": "EPWA", "pitr": "2018-03-27 14:29:59", "id": "DLH9AV-1522117646-ed-0003", "reg": "DAIUJ", "orig": "EDDF"}
 {"ident": "LOT706", "dest": "EPWA", "pitr": "2018-03-27 14:33:06", "id": "LOT706-1521955595-airline-0008", "reg": "SPLNE", "orig": "UMMS"}
 {"ident": "LOT766", "dest": "EPWA", "pitr": "2018-03-27 14:37:35", "id": "LOT766-1521955595-airline-0290", "reg": "SPLNF", "orig": "UKLL"}
-{"ident": "WZZ1060", "dest": "EPWA", "pitr": "2018-03-27 14:47:26", "id": "WZZ1060-1522100396-ed-0002", "reg": "HALXN", "orig": "L 48.19647 17.25185"}
 {"ident": "KLM1365", "dest": "EPWA", "pitr": "2018-03-27 14:51:26", "id": "KLM1365-1521955594-airline-0077", "reg": "PHBXY", "orig": "EHAM"}
 {"ident": "AEE872", "dest": "EPWA", "pitr": "2018-03-27 15:00:27", "id": "AEE872-1521955588-airline-0158", "reg": "SXDVN", "orig": "LGAV"}
 {"ident": "BAW850", "dest": "EPWA", "pitr": "2018-03-27 15:01:49", "id": "BAW850-1522138934-airline-0005", "reg": "GEUUW", "orig": "EGLL"}
 {"ident": "WZZ332", "dest": "EPWA", "pitr": "2018-03-27 15:07:53", "id": "WZZ332-1522096554-ed-0005", "reg": "HALYK", "orig": "LMML"}
-{"ident": "VDA2557", "dest": "EPWA", "pitr": "2018-03-27 15:09:08", "id": "VDA2557-1522120422-ed-0002", "reg": "RA82047", "orig": "L 46.87266 1.56583"}
 {"ident": "LOT434", "dest": "EPWA", "pitr": "2018-03-27 15:32:26", "id": "LOT434-1521955595-airline-0205", "reg": "SPLVA", "orig": "LEMD"}
 {"ident": "BEL2555", "dest": "EPWA", "pitr": "2018-03-27 15:36:54", "id": "BEL2555-1521955596-airline-0134", "reg": "OOSSV", "orig": "EBBR"}
 {"ident": "BMS3906", "dest": "EPWA", "pitr": "2018-03-27 15:42:47", "id": "BMS3906-1521955595-airline-0086", "reg": "YRBMK", "orig": "EPKK"}
@@ -4456,7 +4372,6 @@
 {"ident": "LOT254", "dest": "EPWA", "pitr": "2018-03-27 21:55:04", "id": "LOT254-1522173999-airline-0276", "reg": "SPLDG", "orig": "ELLX"}
 {"ident": "LLP332S", "dest": "EPWA", "pitr": "2018-03-27 21:58:14", "id": "LLP332S-1522166626-adhoc-0", "reg": "SPHAB", "orig": "LEMG"}
 {"ident": "ENT7362", "dest": "EPWA", "pitr": "2018-03-27 22:05:06", "id": "ENT7362-1522161366-adhoc-0", "reg": "SPENV", "orig": "GCLP"}
-{"ident": "KLM1369", "dest": "EPWA", "pitr": "2018-03-27 22:11:55", "id": "KLM85R-1522153884-ed-0016", "reg": "PHBGN", "orig": "L 52.26704 4.69177"}
 {"ident": "LOT3950", "dest": "EPWA", "pitr": "2018-03-27 22:13:51", "id": "LOT3950-1521955595-airline-0177", "reg": "SPEQD", "orig": "EPPO"}
 {"ident": "LOT3826", "dest": "EPWA", "pitr": "2018-03-27 22:14:31", "id": "LOT3826-1521955595-airline-0297", "reg": "SPEQL", "orig": "EPGD"}
 {"ident": "LOT3936", "dest": "EPWA", "pitr": "2018-03-27 22:14:49", "id": "LOT3936-1521955595-airline-0084", "reg": "SPEQK", "orig": "EPSC"}
@@ -4465,7 +4380,6 @@
 {"ident": "WZZ8764", "dest": "EPWA", "pitr": "2018-03-27 23:06:39", "id": "WZZ8764-1522130720-ed-0008", "reg": "HALWE", "orig": "LFBD"}
 {"ident": "WZZ378", "dest": "EPWA", "pitr": "2018-03-27 23:12:09", "id": "WZZ378-1522124558-ed-0006", "reg": "HALXN", "orig": "LEBL"}
 {"ident": "WZZ273", "dest": "EPWA", "pitr": "2018-03-27 23:25:10", "id": "WZZ273-1522132978-ed-0012", "reg": "HALYS", "orig": "LFSB"}
-{"ident": "WZZ1AF", "dest": "EPWA", "pitr": "2018-03-27 23:47:11", "id": "WZZ1AF-1522132082-ed-0000", "reg": "HALXM", "orig": "L 50.44256 4.39446"}
 {"ident": "BAW850", "dest": "EPWA", "pitr": "2018-03-28 00:57:28", "id": "BAW850-1522041946-airline-0156", "reg": "GEUUD", "orig": "EGLL"}
 {"ident": "LOT4", "dest": "EPWA", "pitr": "2018-03-28 01:03:34", "id": "LOT4-1521955595-airline-0208", "reg": "SPLRB", "orig": "KORD"}
 {"ident": "LOT27", "dest": "EPWA", "pitr": "2018-03-28 02:59:03", "id": "LOT27-1521955595-airline-0321", "reg": "SPLRH", "orig": "KJFK"}
@@ -4492,7 +4406,6 @@
 {"ident": "LOT286", "dest": "EPWA", "pitr": "2018-03-28 07:40:22", "id": "LOT286-1522042200-schedule-0000", "reg": "SPLVA", "orig": "EGLL"}
 {"ident": "QTR259", "dest": "EPWA", "pitr": "2018-03-28 07:43:46", "id": "QTR259-1522041900-schedule-0000", "reg": "A7AEC", "orig": "OTHH"}
 {"ident": "EAY402", "dest": "EPWA", "pitr": "2018-03-28 07:45:44", "id": "EAY402-1522040400-schedule-0001", "reg": "ESACJ", "orig": "EDDH"}
-{"ident": "QTR259", "dest": "EPWA", "pitr": "2018-03-28 07:50:52", "id": "QTR1H-1522196371-ed-0002", "reg": "A7AEC", "orig": "L 25.30198 51.58387"}
 {"ident": "ANE751", "dest": "EPWA", "pitr": "2018-03-28 07:57:42", "id": "ANE751-1522044000-schedule-0000", "reg": "ECMJQ", "orig": "EKCH"}
 {"ident": "LOT232", "dest": "EPWA", "pitr": "2018-03-28 08:10:53", "id": "LOT232-1522043100-schedule-0000", "reg": "SPLDE", "orig": "EBBR"}
 {"ident": "ISR731", "dest": "EPWA", "pitr": "2018-03-28 08:19:07", "id": "ISR731-1522044000-schedule-0001", "reg": "SPENL", "orig": "LLBG"}
@@ -4513,7 +4426,6 @@
 {"ident": "BEL2553", "dest": "EPWA", "pitr": "2018-03-28 10:02:03", "id": "BEL2553-1522041954-airline-0213", "reg": "OOSSJ", "orig": "EBBR"}
 {"ident": "SWR135", "dest": "EPWA", "pitr": "2018-03-28 10:02:55", "id": "SWR135-1522172460-ed-0006", "reg": "HBJCG", "orig": "LSZH"}
 {"ident": "SPARK", "dest": "EPWA", "pitr": "2018-03-28 10:04:08", "id": "SPARK-1522203419-dlad-5612645", "reg": "SPARK", "orig": "EPKA"}
-{"ident": "DISCH", "dest": "EPWA", "pitr": "2018-03-28 10:11:32", "id": "DISCH-1522218070-adhoc-0", "reg": "DISCH", "orig": "EDTX"}
 {"ident": "LOT778", "dest": "EPWA", "pitr": "2018-03-28 10:12:25", "id": "LOT778-1522041952-airline-0034", "reg": "SPEQD", "orig": "EYVI"}
 {"ident": "AUI9PQ", "dest": "EPWA", "pitr": "2018-03-28 10:20:35", "id": "AUI9PQ-1522184453-ed-0001", "reg": "URPSV", "orig": "UKBB"}
 {"ident": "WZZ1302", "dest": "EPWA", "pitr": "2018-03-28 10:27:13", "id": "WZZ1302-1522048200-schedule-0000", "reg": "HALXN", "orig": "EGGW"}
@@ -4548,17 +4460,14 @@
 {"ident": "LOT2PM", "dest": "EPWA", "pitr": "2018-03-28 13:30:17", "id": "LOT2PM-1522181764-ed-0000", "reg": "SPLWC", "orig": "EBBR"}
 {"ident": "WZZ644", "dest": "EPWA", "pitr": "2018-03-28 13:35:08", "id": "WZZ644-1522175165-ed-0019", "reg": "HALYK", "orig": "LEXJ"}
 {"ident": "BMS438", "dest": "EPWA", "pitr": "2018-03-28 13:36:48", "id": "BMS438-1522041952-airline-0039", "reg": "YRBMJ", "orig": "LEBL"}
-{"ident": "LOT3BG", "dest": "EPWA", "pitr": "2018-03-28 13:45:19", "id": "LOT3BG-1522198643-ed-0002", "reg": "SPLNF", "orig": "L 45.66751 8.73855"}
 {"ident": "AFR1346", "dest": "EPWA", "pitr": "2018-03-28 13:59:00", "id": "AFR1346-1522041944-airline-0372", "reg": "FGRHZ", "orig": "LFPG"}
 {"ident": "LOT752", "dest": "EPWA", "pitr": "2018-03-28 14:01:38", "id": "LOT752-1522041952-airline-0347", "reg": "SPLWA", "orig": "UKBB"}
 {"ident": "QTR261", "dest": "EPWA", "pitr": "2018-03-28 14:20:58", "id": "QTR261-1522041954-airline-0195", "reg": "A7AHT", "orig": "OTHH"}
 {"ident": "LOT282", "dest": "EPWA", "pitr": "2018-03-28 14:26:27", "id": "LOT282-1522041952-airline-0244", "reg": "SPLRA", "orig": "EGLL"}
-{"ident": "WZZ6CS", "dest": "EPWA", "pitr": "2018-03-28 14:35:19", "id": "WZZ6CS-1522182017-ed-0005", "reg": "HALYH", "orig": "L 58.77914 16.82069"}
 {"ident": "AUA62U", "dest": "EPWA", "pitr": "2018-03-28 14:40:00", "id": "AUA62U-1522236101-adhoc-0", "reg": "OELWB", "orig": "LOWW"}
 {"ident": "LOT784", "dest": "EPWA", "pitr": "2018-03-28 14:41:40", "id": "LOT784-1522041952-airline-0165", "reg": "SPEQH", "orig": "EVRA"}
 {"ident": "WZZ84", "dest": "EPWA", "pitr": "2018-03-28 14:43:09", "id": "WZZ84-1522183863-ed-0004", "reg": "HALYS", "orig": "LROP"}
 {"ident": "KLM1365", "dest": "EPWA", "pitr": "2018-03-28 14:47:44", "id": "KLM1365-1522041951-airline-0217", "reg": "PHBXP", "orig": "EHAM"}
-{"ident": "DLH9AV", "dest": "EPWA", "pitr": "2018-03-28 14:55:35", "id": "DLH9AV-1522204110-ed-0000", "reg": "DAIUE", "orig": "L 49.98239 8.52611"}
 {"ident": "EAY786", "dest": "EPWA", "pitr": "2018-03-28 15:06:51", "id": "EAY786-1522041952-airline-0320", "reg": "ESACI", "orig": "EETN"}
 {"ident": "LOT632", "dest": "EPWA", "pitr": "2018-03-28 15:26:48", "id": "LOT632-1522041952-airline-0155", "reg": "SPLIC", "orig": "LBSF"}
 {"ident": "LOT3934", "dest": "EPWA", "pitr": "2018-03-28 15:28:45", "id": "LOT3934-1522041952-airline-0290", "reg": "SPLNE", "orig": "EPSC"}
@@ -4579,7 +4488,6 @@
 {"ident": "LOT6EC", "dest": "EPWA", "pitr": "2018-03-28 16:35:22", "id": "LOT6EC-1522222468-ed-0011", "reg": "SPLNA", "orig": "LROP"}
 {"ident": "LOT434", "dest": "EPWA", "pitr": "2018-03-28 16:36:19", "id": "LOT434-1522041952-airline-0012", "reg": "SPLVA", "orig": "LEMD"}
 {"ident": "ANE2751", "dest": "EPWA", "pitr": "2018-03-28 16:39:30", "id": "ANE2751-1522041954-airline-0387", "reg": "ECMJQ", "orig": "EKCH"}
-{"ident": "LOT9KA", "dest": "EPWA", "pitr": "2018-03-28 17:00:23", "id": "LOT9KA-1522218278-ed-0000", "reg": "SPLNE", "orig": "L 53.55965 14.95280"}
 {"ident": "AFR1046", "dest": "EPWA", "pitr": "2018-03-28 17:04:24", "id": "AFR1046-1522041944-airline-0082", "reg": "FGUGA", "orig": "LFPG"}
 {"ident": "AFL2002", "dest": "EPWA", "pitr": "2018-03-28 17:14:22", "id": "AFL2002-1522041955-airline-0002", "reg": "VQBSI", "orig": "UUEE"}
 {"ident": "OAW1352", "dest": "EPWA", "pitr": "2018-03-28 17:15:43", "id": "OAW1352-1522041952-airline-0258", "reg": "HBJVR", "orig": "LSZH"}
@@ -4605,7 +4513,6 @@
 {"ident": "ADR631", "dest": "EPWA", "pitr": "2018-03-28 19:30:36", "id": "ADR631-1522041953-airline-0113", "reg": "S5AAL", "orig": "LOWW"}
 {"ident": "LOT92K", "dest": "EPWA", "pitr": "2018-03-28 19:34:42", "id": "LOT92K-1522224142-ed-0015", "reg": "SPLNA", "orig": "EPKK"}
 {"ident": "VLG8844", "dest": "EPWA", "pitr": "2018-03-28 19:34:48", "id": "VLG8844-1522041957-airline-0099", "reg": "ECMQE", "orig": "LEBL"}
-{"ident": "WZZ90", "dest": "EPWA", "pitr": "2018-03-28 19:38:16", "id": "WZZ90-1522211899-ed-0006", "reg": "HALYK", "orig": "L 38.94551 16.07910"}
 {"ident": "LOT678", "dest": "EPWA", "pitr": "2018-03-28 19:38:30", "id": "LOT678-1522041952-airline-0263", "reg": "SPLNC", "orig": "UUEE"}
 {"ident": "WZZ1560", "dest": "EPWA", "pitr": "2018-03-28 19:42:53", "id": "WZZ1560-1522041957-airline-0378", "reg": "HALYH", "orig": "LLBG"}
 {"ident": "LOT280", "dest": "EPWA", "pitr": "2018-03-28 19:46:45", "id": "LOT280-1522041952-airline-0277", "reg": "SPLRD", "orig": "EGLL"}
@@ -4627,7 +4534,6 @@
 {"ident": "WZZ1310", "dest": "EPWA", "pitr": "2018-03-28 21:33:17", "id": "WZZ1310-1522041957-airline-0134", "reg": "HALWE", "orig": "EGGW"}
 {"ident": "LOT3922", "dest": "EPWA", "pitr": "2018-03-28 21:49:13", "id": "LOT3922-1522041952-airline-0175", "reg": "SPLNA", "orig": "EPKK"}
 {"ident": "LOT408", "dest": "EPWA", "pitr": "2018-03-28 21:53:01", "id": "LOT408-1522041952-airline-0293", "reg": "SPLLG", "orig": "EDDL"}
-{"ident": "LOT8GW", "dest": "EPWA", "pitr": "2018-03-28 21:56:56", "id": "LOT8GW-1522238586-ed-0004", "reg": "SPLWA", "orig": "L 49.99017 8.52636"}
 {"ident": "WZZ1454", "dest": "EPWA", "pitr": "2018-03-28 22:03:03", "id": "WZZ1454-1522041957-airline-0052", "reg": "HALXM", "orig": "LICC"}
 {"ident": "WZZ1568", "dest": "EPWA", "pitr": "2018-03-28 22:10:27", "id": "WZZ1568-1522041957-airline-0211", "reg": "HALYK", "orig": "UKKK"}
 {"ident": "DLH8FU", "dest": "EPWA", "pitr": "2018-03-28 22:30:24", "id": "DLH8FU-1522234407-ed-0002", "reg": "DAIUO", "orig": "EDDF"}
@@ -4650,7 +4556,6 @@
 {"ident": "BCS5446", "dest": "EPWA", "pitr": "2018-03-29 05:41:00", "id": "GBMRA-1522290715-adhoc-0", "reg": "GBMRA", "orig": "EDDP"}
 {"ident": "UPS4", "dest": "EPWA", "pitr": "2018-03-29 06:01:56", "id": "UPS4-1522280600-6-0-48", "reg": "N285UP", "orig": "EDDK"}
 {"ident": "UAE179", "dest": "EPWA", "pitr": "2018-03-29 06:22:09", "id": "UAE179-1522123800-schedule-0000", "reg": "A6EPH", "orig": "OMDB"}
-{"ident": "TAY83G", "dest": "EPWA", "pitr": "2018-03-29 06:24:32", "id": "TAY83G-1522263295-ed-0001", "reg": "EISTP", "orig": "L 50.61177 5.40231"}
 {"ident": "WZZ9LH", "dest": "EPWA", "pitr": "2018-03-29 06:31:18", "id": "WZZ9LH-1522235581-ed-0007", "reg": "HALYD", "orig": "LPPR"}
 {"ident": "LOT3984", "dest": "EPWA", "pitr": "2018-03-29 06:39:02", "id": "LOT3984-1522122300-schedule-0000", "reg": "SPLDG", "orig": "EPZG"}
 {"ident": "EAY774", "dest": "EPWA", "pitr": "2018-03-29 06:41:20", "id": "EAY774-1522121400-schedule-0000", "reg": "ESACH", "orig": "EYVI"}
@@ -4706,7 +4611,6 @@
 {"ident": "LOT388", "dest": "EPWA", "pitr": "2018-03-29 11:32:45", "id": "LOT388-1522142100-schedule-0002", "reg": "SPEQL", "orig": "EDDT"}
 {"ident": "LOT3LC", "dest": "EPWA", "pitr": "2018-03-29 11:36:11", "id": "LOT3LC-1522263567-ed-0006", "reg": "SPLVB", "orig": "EDDM"}
 {"ident": "LOT318", "dest": "EPWA", "pitr": "2018-03-29 11:43:23", "id": "LOT318-1522140300-schedule-0000", "reg": "SPLNE", "orig": "LIMC"}
-{"ident": "KLM1363", "dest": "EPWA", "pitr": "2018-03-29 11:47:33", "id": "KLM53W-1522311565-ed-0011", "reg": "PHBGG", "orig": "L 52.25642 4.81125"}
 {"ident": "THY1765", "dest": "EPWA", "pitr": "2018-03-29 11:55:21", "id": "THY1765-1522138940-airline-0154", "reg": "TCJRK", "orig": "LTBA"}
 {"ident": "WZZ606", "dest": "EPWA", "pitr": "2018-03-29 11:58:36", "id": "WZZ606-1522258266-ed-0008", "reg": "HALXM", "orig": "EGBB"}
 {"ident": "BAW864", "dest": "EPWA", "pitr": "2018-03-29 12:06:12", "id": "BAW864-1522138934-airline-0127", "reg": "GEUUX", "orig": "EGLL"}
@@ -4786,7 +4690,6 @@
 {"ident": "LOT280", "dest": "EPWA", "pitr": "2018-03-29 20:34:40", "id": "LOT280-1522138938-airline-0229", "reg": "SPLRG", "orig": "EGLL"}
 {"ident": "KLM1369", "dest": "EPWA", "pitr": "2018-03-29 20:36:18", "id": "KLM1369-1522138937-airline-0060", "reg": "PHBGI", "orig": "EHAM"}
 {"ident": "BMS268", "dest": "EPWA", "pitr": "2018-03-29 20:48:55", "id": "BMS268-1522138938-airline-0251", "reg": "YRBMJ", "orig": "EHAM"}
-{"ident": "TVP7303", "dest": "EPWA", "pitr": "2018-03-29 21:02:28", "id": "TVP7303-1522281367-ed-0002", "reg": "OKTVO", "orig": "L 28.06352 -16.51763"}
 {"ident": "CCA737", "dest": "EPWA", "pitr": "2018-03-29 21:14:46", "id": "CCA737-1522176900-schedule-0000", "reg": "B6117", "orig": "ZBAA"}
 {"ident": "DLH2FF", "dest": "EPWA", "pitr": "2018-03-29 21:17:54", "id": "DLH2FF-1522282743-ed-0002", "reg": "DAEMD", "orig": "EDDM"}
 {"ident": "BEL2559", "dest": "EPWA", "pitr": "2018-03-29 21:25:48", "id": "BEL2559-1522138939-airline-0369", "reg": "OOSSI", "orig": "EBBR"}
@@ -4801,8 +4704,6 @@
 {"ident": "LOT3MA", "dest": "EPWA", "pitr": "2018-03-29 22:30:20", "id": "LOT3MA-1522327462-ed-0015", "reg": "SPLNF", "orig": "LIMC"}
 {"ident": "WZZ131D", "dest": "EPWA", "pitr": "2018-03-29 23:02:53", "id": "WZZ131D-1522304238-ed-0002", "reg": "HALXM", "orig": "ENTO"}
 {"ident": "WZZ378", "dest": "EPWA", "pitr": "2018-03-29 23:04:54", "id": "WZZ378-1522297500-ed-0000", "reg": "HALXN", "orig": "LEBL"}
-{"ident": "LLP88QM", "dest": "EPWA", "pitr": "2018-03-29 23:10:54", "id": "LLP88QM-1522340448-adhoc-0", "reg": "SPHAG", "orig": "L 28.06421 -16.51794"}
-{"ident": "WZZ332", "dest": "EPWA", "pitr": "2018-03-29 23:37:14", "id": "WZZ332-1522300862-ed-0001", "reg": "HALYH", "orig": "L 35.82832 14.51364"}
 {"ident": "EAY458", "dest": "EPWA", "pitr": "2018-03-29 23:45:02", "id": "EAY458-1522138938-airline-0142", "reg": "ESACH", "orig": "ESSA"}
 {"ident": "WZZ1AF", "dest": "EPWA", "pitr": "2018-03-29 23:51:30", "id": "WZZ1AF-1522304357-ed-0007", "reg": "HALXJ", "orig": "EBCI"}
 {"ident": "LOT27", "dest": "EPWA", "pitr": "2018-03-30 01:50:19", "id": "LOT27-1522138938-airline-0077", "reg": "SPLRA", "orig": "KJFK"}
@@ -4836,7 +4737,6 @@
 {"ident": "LOT406", "dest": "EPWA", "pitr": "2018-03-30 07:36:22", "id": "LOT406-1522214400-schedule-0000", "reg": "SPLIK", "orig": "EDDL"}
 {"ident": "LOT270", "dest": "EPWA", "pitr": "2018-03-30 07:36:23", "id": "LOT270-1522213500-schedule-0000", "reg": "SPLND", "orig": "EHAM"}
 {"ident": "NAX1018", "dest": "EPWA", "pitr": "2018-03-30 07:44:38", "id": "NAX1018-1522215300-schedule-0000", "reg": "LNDYV", "orig": "ENGM"}
-{"ident": "TVP7131", "dest": "EPWA", "pitr": "2018-03-30 07:45:13", "id": "TVP7131-1522338745-ed-0000", "reg": "SPTVZ", "orig": "L 28.70341 33.16649"}
 {"ident": "LOT286", "dest": "EPWA", "pitr": "2018-03-30 07:47:30", "id": "LOT286-1522215000-schedule-0001", "reg": "SPLVA", "orig": "EGLL"}
 {"ident": "AZA490", "dest": "EPWA", "pitr": "2018-03-30 07:50:40", "id": "AZA490-1522219200-schedule-0001", "reg": "EIDTL", "orig": "LIRF"}
 {"ident": "LOT232", "dest": "EPWA", "pitr": "2018-03-30 07:55:34", "id": "LOT232-1522215900-schedule-0000", "reg": "SPLID", "orig": "EBBR"}
@@ -4884,7 +4784,6 @@
 {"ident": "LLP8248", "dest": "EPWA", "pitr": "2018-03-30 12:40:53", "id": "SPHAX-1522399993-adhoc-0", "reg": "SPHAX", "orig": "LDDU"}
 {"ident": "LOT48B", "dest": "EPWA", "pitr": "2018-03-30 12:43:22", "id": "LOT48B-1522361461-ed-0000", "reg": "SPLNF", "orig": "ENGM"}
 {"ident": "LOT388", "dest": "EPWA", "pitr": "2018-03-30 12:45:33", "id": "LOT388-1522228500-schedule-0005", "reg": "SPEQD", "orig": "EDDT"}
-{"ident": "WZZ1060", "dest": "EPWA", "pitr": "2018-03-30 12:54:46", "id": "WZZ1060-1522352826-ed-0006", "reg": "HALYH", "orig": "L 48.14090 17.25767"}
 {"ident": "LOT3908", "dest": "EPWA", "pitr": "2018-03-30 12:56:05", "id": "LOT3908-1522229673-airline-0444", "reg": "SPLIM", "orig": "EPKK"}
 {"ident": "VHNJA", "dest": "EPWA", "pitr": "2018-03-30 12:56:50", "id": "VHNJA-1522405746-adhoc-0", "reg": "VHNJA", "orig": "EPWA"}
 {"ident": "LOT3836", "dest": "EPWA", "pitr": "2018-03-30 12:58:41", "id": "LOT3836-1522229673-airline-0390", "reg": "SPEQF", "orig": "EPGD"}
@@ -4897,7 +4796,6 @@
 {"ident": "LOT2PM", "dest": "EPWA", "pitr": "2018-03-30 13:20:20", "id": "LOT2PM-1522349249-ed-0010", "reg": "SPLNE", "orig": "EBBR"}
 {"ident": "WZZ1584", "dest": "EPWA", "pitr": "2018-03-30 13:34:47", "id": "WZZ1584-1522232700-schedule-0000", "reg": "HALYS", "orig": "LROP"}
 {"ident": "LOT676", "dest": "EPWA", "pitr": "2018-03-30 13:35:39", "id": "LOT676-1522229673-airline-0051", "reg": "SPLND", "orig": "UUEE"}
-{"ident": "WZZ6CS", "dest": "EPWA", "pitr": "2018-03-30 13:54:22", "id": "WZZ6CS-1522354202-ed-0012", "reg": "HALYK", "orig": "L 58.79706 16.99539"}
 {"ident": "DLH9AV", "dest": "EPWA", "pitr": "2018-03-30 14:05:48", "id": "DLH9AV-1522376846-ed-0002", "reg": "DAIZY", "orig": "EDDF"}
 {"ident": "QTR261", "dest": "EPWA", "pitr": "2018-03-30 14:17:54", "id": "QTR261-1522229676-airline-0074", "reg": "A7AHP", "orig": "OTHH"}
 {"ident": "AEE872", "dest": "EPWA", "pitr": "2018-03-30 14:25:29", "id": "AEE872-1522229666-airline-0030", "reg": "SXDND", "orig": "LGAV"}
@@ -4933,7 +4831,6 @@
 {"ident": "TAP1262", "dest": "EPWA", "pitr": "2018-03-30 17:40:52", "id": "TAP1262-1522387532-airline-0031", "reg": "CSTNS", "orig": "LPPT"}
 {"ident": "CSA778", "dest": "EPWA", "pitr": "2018-03-30 17:45:12", "id": "CSA778-1522387531-airline-0234", "reg": "OKKFO", "orig": "LKPR"}
 {"ident": "LOT4GM", "dest": "EPWA", "pitr": "2018-03-30 17:45:23", "id": "LOT4GM-1522374513-ed-0002", "reg": "SPLWC", "orig": "LEBL"}
-{"ident": "WZZ9RU", "dest": "EPWA", "pitr": "2018-03-30 17:50:23", "id": "WZZ9RU-1522365923-ed-0000", "reg": "HALWE", "orig": "L 51.41811 5.33821"}
 {"ident": "CSA778", "dest": "EPWA", "pitr": "2018-03-30 17:57:41", "id": "CSA6PC-1522403558-2-0-65", "reg": "OKKFP", "orig": "LKPR"}
 {"ident": "BAW864", "dest": "EPWA", "pitr": "2018-03-30 18:00:38", "id": "BAW864W-1522386451-ed-0066", "reg": "GEUYJ", "orig": "EGLL"}
 {"ident": "SWR1352", "dest": "EPWA", "pitr": "2018-03-30 18:05:45", "id": "SWR135-1522382079-ed-0001", "reg": "HBIPV", "orig": "LSZH"}
@@ -4967,7 +4864,6 @@
 {"ident": "WZZ1568", "dest": "EPWA", "pitr": "2018-03-30 21:37:51", "id": "WZZ1568-1522229679-airline-0475", "reg": "HALYD", "orig": "UKKK"}
 {"ident": "LOT234", "dest": "EPWA", "pitr": "2018-03-30 21:43:21", "id": "LOT234-1522400374-ed-0013", "reg": "YRBMK", "orig": "EBBR"}
 {"ident": "BEL2559", "dest": "EPWA", "pitr": "2018-03-30 21:53:49", "id": "BEL2559-1522229677-airline-0208", "reg": "OOSSO", "orig": "EBBR"}
-{"ident": "KLM1369", "dest": "EPWA", "pitr": "2018-03-30 22:03:09", "id": "KLM85R-1522434539-ed-0019", "reg": "PHBGL", "orig": "L 52.32025 4.84505"}
 {"ident": "DLH1352", "dest": "EPWA", "pitr": "2018-03-30 22:03:09", "id": "DLH1352-1522229673-airline-0165", "reg": "DAIZZ", "orig": "EDDF"}
 {"ident": "WZZ1515", "dest": "EPWA", "pitr": "2018-03-30 22:56:25", "id": "WZZ131D-1522390705-ed-0001", "reg": "HALXJ", "orig": "ENTO"}
 {"ident": "WZZ581", "dest": "EPWA", "pitr": "2018-03-30 23:29:27", "id": "WZZ581-1522382210-ed-0004", "reg": "HALXM", "orig": "LCLK"}
@@ -5004,7 +4900,6 @@
 {"ident": "LOT286", "dest": "EPWA", "pitr": "2018-03-31 07:39:10", "id": "LOT286-1522301400-schedule-0001", "reg": "SPLVA", "orig": "EGLL"}
 {"ident": "QTR259", "dest": "EPWA", "pitr": "2018-03-31 07:40:10", "id": "QTR1H-1522458846-ed-0000", "reg": "A7AEH", "orig": "OTHH"}
 {"ident": "LOT270", "dest": "EPWA", "pitr": "2018-03-31 07:40:29", "id": "LOT270-1522299900-schedule-0000", "reg": "SPLID", "orig": "EHAM"}
-{"ident": "CAI15ZY", "dest": "EPWA", "pitr": "2018-03-31 07:45:21", "id": "CAI15ZY-1522431424-ed-0002", "reg": "TCTJM", "orig": "L 37.06638 30.78250"}
 {"ident": "LOT232", "dest": "EPWA", "pitr": "2018-03-31 07:56:54", "id": "LOT232-1522302300-schedule-0000", "reg": "SPLNB", "orig": "EBBR"}
 {"ident": "LOT334", "dest": "EPWA", "pitr": "2018-03-31 08:08:34", "id": "LOT334-1522299900-schedule-0001", "reg": "SPLII", "orig": "LFPG"}
 {"ident": "AZA490", "dest": "EPWA", "pitr": "2018-03-31 08:14:23", "id": "AZA490-1522305600-schedule-0000", "reg": "EIIKG", "orig": "LIRF"}
@@ -5058,7 +4953,6 @@
 {"ident": "LOT2PM", "dest": "EPWA", "pitr": "2018-03-31 13:20:12", "id": "LOT2PM-1522438745-ed-0003", "reg": "SPLNA", "orig": "EBBR"}
 {"ident": "WZZ1592", "dest": "EPWA", "pitr": "2018-03-31 13:21:10", "id": "WZZ1592-1522318800-schedule-0001", "reg": "HALYS", "orig": "GMAD"}
 {"ident": "EAY786", "dest": "EPWA", "pitr": "2018-03-31 13:51:02", "id": "EAY786-1522323900-schedule-0000", "reg": "ESACK", "orig": "EETN"}
-{"ident": "LOT454", "dest": "EPWA", "pitr": "2018-03-31 13:55:17", "id": "LOT454-1522405851-ed-0012", "reg": "SPLNE", "orig": "L 59.66596 17.99409"}
 {"ident": "WZZ9802", "dest": "EPWA", "pitr": "2018-03-31 14:09:15", "id": "WZZ9802-1522434623-ed-0011", "reg": "HALYD", "orig": "LEAL"}
 {"ident": "LOT438", "dest": "EPWA", "pitr": "2018-03-31 14:10:00", "id": "LOT438-1522322100-schedule-0000", "reg": "SPLWC", "orig": "LEBL"}
 {"ident": "LOT4PC", "dest": "EPWA", "pitr": "2018-03-31 14:10:17", "id": "LOT4PC-1522457311-ed-0001", "reg": "YRBMJ", "orig": "EDDL"}
@@ -5078,10 +4972,8 @@
 {"ident": "LOT3838", "dest": "EPWA", "pitr": "2018-03-31 15:58:28", "id": "LOT3838-1522328100-schedule-0003", "reg": "SPEQF", "orig": "EPGD"}
 {"ident": "LOT3934", "dest": "EPWA", "pitr": "2018-03-31 16:06:55", "id": "LOT3934-1522328100-schedule-0000", "reg": "SPLNE", "orig": "EPSC"}
 {"ident": "EAY780", "dest": "EPWA", "pitr": "2018-03-31 16:06:55", "id": "EAY780-1522328400-schedule-0000", "reg": "ESACL", "orig": "EYVI"}
-{"ident": "LOT9KA", "dest": "EPWA", "pitr": "2018-03-31 16:14:45", "id": "LOT9KA-1522481123-ed-0002", "reg": "SPLNE", "orig": "L 53.56064 14.94855"}
 {"ident": "KLM1365", "dest": "EPWA", "pitr": "2018-03-31 16:24:22", "id": "KLM93N-1522478458-ed-0005", "reg": "PHEZD", "orig": "EHAM"}
 {"ident": "ENT297P", "dest": "EPWA", "pitr": "2018-03-31 16:30:16", "id": "ENT297P-1522499608-adhoc-0", "reg": "SPENR", "orig": "LIRF"}
-{"ident": "LOT7LA", "dest": "EPWA", "pitr": "2018-03-31 16:35:21", "id": "LOT7LA-1522479382-ed-0006", "reg": "SPLNA", "orig": "L 49.78496 23.99588"}
 {"ident": "WZZ1442", "dest": "EPWA", "pitr": "2018-03-31 16:46:56", "id": "WZZ1442-1522330200-schedule-0000", "reg": "HALXM", "orig": "LIRF"}
 {"ident": "LOT764", "dest": "EPWA", "pitr": "2018-03-31 16:59:38", "id": "LOT764-1522336500-schedule-0000", "reg": "SPLNF", "orig": "UKLL"}
 {"ident": "LOT752", "dest": "EPWA", "pitr": "2018-03-31 17:07:34", "id": "LOT752-1522324200-schedule-0000", "reg": "SPLNB", "orig": "UKBB"}
@@ -5095,7 +4987,6 @@
 {"ident": "DLH3UJ", "dest": "EPWA", "pitr": "2018-03-31 18:18:40", "id": "DLH3UJ-1522478227-ed-0000", "reg": "DAILK", "orig": "EDDF"}
 {"ident": "AFR1346", "dest": "EPWA", "pitr": "2018-03-31 18:21:51", "id": "AFR1346-1522323900-schedule-0000", "reg": "INEOZ", "orig": "LFPG"}
 {"ident": "NOS1346", "dest": "EPWA", "pitr": "2018-03-31 18:23:03", "id": "NOS1346-1522423557-airline-0126", "reg": "INEOZ", "orig": "LFPG"}
-{"ident": "WZZ450", "dest": "EPWA", "pitr": "2018-03-31 18:31:47", "id": "WZZ450-1522454623-ed-0000", "reg": "HALXW", "orig": "L 45.76336 5.08317"}
 {"ident": "LOT646", "dest": "EPWA", "pitr": "2018-03-31 18:36:55", "id": "LOT646-1522335600-schedule-0000", "reg": "SPLIB", "orig": "LROP"}
 {"ident": "WZZ6AM", "dest": "EPWA", "pitr": "2018-03-31 18:37:14", "id": "WZZ6AM-1522453961-ed-0001", "reg": "HALXM", "orig": "LIRF"}
 {"ident": "LOT574", "dest": "EPWA", "pitr": "2018-03-31 18:42:22", "id": "LOT574-1522329982-airline-0309", "reg": "SPLID", "orig": "LYBE"}
@@ -5132,7 +5023,6 @@
 {"ident": "WZZ1382", "dest": "EPWA", "pitr": "2018-03-31 21:48:48", "id": "WZZ1382-1522329987-airline-0454", "reg": "HALXW", "orig": "EBCI"}
 {"ident": "LOT678", "dest": "EPWA", "pitr": "2018-03-31 21:48:48", "id": "LOT678-1522329982-airline-0278", "reg": "SPLIM", "orig": "UUEE"}
 {"ident": "WZZ8764", "dest": "EPWA", "pitr": "2018-03-31 22:12:30", "id": "WZZ8764-1522467689-ed-0003", "reg": "HALWE", "orig": "LFBD"}
-{"ident": "LOT8GW", "dest": "EPWA", "pitr": "2018-03-31 22:25:32", "id": "LOT8GW-1522501069-ed-0006", "reg": "SPLWC", "orig": "L 49.96433 8.53749"}
 {"ident": "LOT3MA", "dest": "EPWA", "pitr": "2018-03-31 22:45:31", "id": "LOT3MA-1522489811-ed-0029", "reg": "SPLNA", "orig": "LIMC"}
 {"ident": "WZZ273", "dest": "EPWA", "pitr": "2018-03-31 23:15:10", "id": "WZZ273-1522478345-ed-0017", "reg": "HALYS", "orig": "LFSB"}
 {"ident": "TFL324", "dest": "EPWA", "pitr": "2018-03-31 23:15:25", "id": "TFL324-1522506706-0-0-20", "reg": "PHOYI", "orig": "MDPC"}
