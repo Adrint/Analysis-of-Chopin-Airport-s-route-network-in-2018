@@ -3,3 +3,4 @@
 # data - zebrane dane
 # program_bash - skrypt do uzyskania danych z serwera
 # program - głowny program do analizy danych
+# sprawozdanie z projektu znajduje sie w formacie pdf
