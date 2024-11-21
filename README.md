@@ -1,6 +1,6 @@
-# ONS
-# Analiza siatki połączeń lotniska Chopina w 2018 roku
-# data - zebrane dane
-# program_bash - skrypt do uzyskania danych z serwera
-# program - głowny program do analizy danych
-# sprawozdanie z projektu znajduje sie w formacie pdf
+# Project for college - computer science 
+# Analysis of Chopin Airport's route network in 2018.
+# data - collected data
+# program_bash - script that retrieves data from the server
+# program - the main program for data analysis
+# the project report is in pdf format (in Polish)
